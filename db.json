@@ -1,33 +1,219 @@
 {
-  "projects": [
+  "countries": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "id": 4,
+      "name": "Spain",
+      "capital":"Madrid",
+      "description": "Spain is a captivating blend of history, culture, cuisine, and natural beauty. Whether you seek vibrant city life, idyllic beaches, or a taste of authentic Spanish culture, Spain has it all..",
+      "image": "https://unsplash.com/photos/UuGAw6nF0Vw"
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "id": 11,
+      "name": "Switzerland",
+      "capital": "Bern",
+      "description": "Switzerland is renowned for its stunning alpine landscapes, pristine lakes, and charming cities.",
+      "image": "https://unsplash.com/photos/o6UVPje41Lg"
+    },
+    {
+      "id": 12,
+      "name": "Hungary",
+      "capital": "Budapest",
+      "description": "Hungary offers a rich tapestry of history, thermal baths, and beautiful architecture.",
+      "image": "https://unsplash.com/photos/ezUDjYy17EA"
+    },
+    {
+      "id": 13,
+      "name": "Denmark",
+      "capital": "Copenhagen",
+      "description": "Denmark is known for its picturesque canals, historic castles, and Scandinavian design.",
+      "image": "https://unsplash.com/photos/SuwFvHU-z-o"
+    },
+    {
+      "id": 14,
+      "name": "Croatia",
+      "capital": "Zagreb",
+      "description": "Croatia's Adriatic coast offers stunning beaches, medieval towns, and crystal-clear waters.",
+      "image": "https://unsplash.com/photos/tQT5KiZSKpE"
     }
+
+   
   ],
-  "tasks": [
+  "tourist": [
     {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "id": 41,
+      "countryId": 4,
+      "placeName":"Sagrada Família, Barcelona",
+      "placeImage":"https://unsplash.com/photos/8eTcxvXUwvc",
+      "description": "This iconic basilica, designed by the renowned architect Antoni Gaudí, is a masterpiece of Modernisme architecture. Its intricate facades, stunning interior, and ongoing construction make it a must-visit landmark in Barcelona."
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "id": 42,
+      "countryId": 4,
+      "placeName":"Alhambra, Granada",
+      "placeImage":"https://unsplash.com/photos/42ZeopvZS4Q",
+      "description": "The Alhambra is a breathtaking palace and fortress complex that showcases the Moorish architecture and history of Spain."
     },
     {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "id": 43,
+      "countryId": 4,
+      "placeName":"Park Güell, Barcelona",
+      "placeImage":"https://unsplash.com/photos/a-view-of-a-city-from-a-tiled-roof-s3kdLmeYxXs",
+      "description": "Another gem designed by Antoni Gaudí, Park Güell is a whimsical public park filled with colorful mosaics, sculptures, and unique architectural elements."
+    },
+    {
+      "id": 44,
+      "countryId": 4,
+      "placeName":"Prado Museum, Madrid",
+      "placeImage":"https://unsplash.com/photos/moxOkmPxxG4",
+      "description": "One of the world's most renowned art museums, the Prado Museum in Madrid houses an extensive collection of European art, including works by Velázquez, Goya, and El Greco."
+    },
+    {
+      "id": 45,
+      "countryId": 4,
+      "placeName":"La Rambla, Barcelona",
+      "placeImage":"",
+      "description": "This vibrant tree-lined street in Barcelona is famous for its bustling atmosphere, street performers, shops, restaurants, and cultural landmarks like the Mercat de Sant Josep de la Boqueria. It's a great place to soak in the city's energy."
+    },
+    {
+      "id": 111,
+      "countryId": 11,
+      "placeName": "Swiss Alps",
+      "placeImage": "https://unsplash.com/photos/nrSLAdAKIks",
+      "description": "The Swiss Alps are a paradise for outdoor enthusiasts, offering skiing, hiking, and breathtaking mountain scenery."
+    },
+    {
+      "id": 112,
+      "countryId": 11,
+      "placeName": "Lake Geneva",
+      "placeImage": "https://unsplash.com/photos/8pJcicBVynk",
+      "description": "Lake Geneva is known for its stunning blue waters, lakeside towns, and the city of Geneva."
+    },
+    {
+      "id": 113,
+      "countryId": 11,
+      "placeName": "Zermatt",
+      "placeImage": "https://unsplash.com/photos/Cl10giNfsZs",
+      "description": "Zermatt is a charming mountain resort town at the foot of the Matterhorn, famous for skiing and mountaineering."
+    },
+    {
+      "id": 114,
+      "countryId": 11,
+      "placeName": "Lucerne",
+      "placeImage": "https://unsplash.com/photos/gWXKH78HHP4",
+      "description": "Lucerne is a picturesque city known for its medieval architecture, including the Chapel Bridge and the Lion Monument."
+    },
+    {
+      "id": 115,
+      "countryId": 11,
+      "placeName": "Interlaken",
+      "placeImage": "https://unsplash.com/photos/SMj2DY7QUfw",
+      "description": "Interlaken is a popular destination for adventure sports and offers stunning views of the Jungfrau region."
+    },
+    {
+      "id": 121,
+      "countryId": 12,
+      "placeName": "Budapest Parliament Building",
+      "placeImage": "https://unsplash.com/photos/ZLwIJJD9q9s",
+      "description": "The Budapest Parliament Building is an iconic landmark on the banks of the Danube River, known for its stunning architecture."
+    },
+    {
+      "id": 122,
+      "countryId": 12,
+      "placeName": "Fisherman's Bastion",
+      "placeImage": "https://unsplash.com/photos/7gYwAZeYd1o",
+      "description": "Fisherman's Bastion offers panoramic views of Budapest and is a favorite spot for tourists."
+    },
+    {
+      "id": 123,
+      "countryId": 12,
+      "placeName": "Széchenyi Thermal Bath",
+      "placeImage": "https://unsplash.com/photos/IrRGLe3lwVQ",
+      "description": "Széchenyi Thermal Bath is one of the largest thermal bath complexes in Europe, providing relaxation and wellness."
+    },
+    {
+      "id": 124,
+      "countryId": 12,
+      "placeName": "Matthias Church",
+      "placeImage": "https://unsplash.com/photos/sB_TXSoyKi4",
+      "description": "Matthias Church is a historic church with stunning Gothic architecture in Buda's Castle District."
+    },
+    {
+      "id": 125,
+      "countryId": 12,
+      "placeName": "Great Market Hall",
+      "placeImage": "https://unsplash.com/photos/HYQvV8wWX18",
+      "description": "The Great Market Hall in Budapest is a bustling market where you can find fresh produce, local crafts, and delicious food."
+    },
+    {
+      "id": 131,
+      "countryId": 13,
+      "placeName": "Nyhavn, Copenhagen",
+      "placeImage": "https://unsplash.com/photos/a-group-of-boats-that-are-sitting-in-the-water-Y46cf9LUZcI",
+      "description": "Nyhavn is a picturesque harbor in Copenhagen known for its colorful buildings, restaurants, and boats."
+    },
+    {
+      "id": 132,
+      "countryId": 13,
+      "placeName": "Tivoli Gardens",
+      "placeImage": "https://unsplash.com/photos/jQZICOubHCQ",
+      "description": "Tivoli Gardens is an amusement park and garden in Copenhagen with rides, entertainment, and beautiful gardens."
+    },
+    {
+      "id": 133,
+      "countryId": 13,
+      "placeName": "The Little Mermaid Statue",
+      "placeImage": "https://unsplash.com/photos/W2VcCTAtjf4",
+      "description": "The Little Mermaid Statue is an iconic Copenhagen landmark inspired by Hans Christian Andersen's fairy tale."
+    },
+    {
+      "id": 134,
+      "countryId": 13,
+      "placeName": "Rosenborg Castle",
+      "placeImage": "https://unsplash.com/photos/3GvnmppxG3k",
+      "description": "Rosenborg Castle is a well-preserved Renaissance castle in Copenhagen known for its royal history and crown jewels."
+    },
+    {
+      "id": 135,
+      "countryId": 13,
+      "placeName": "The National Museum",
+      "placeImage": "https://unsplash.com/photos/gsUTmcM2OSY",
+      "description": "The National Museum in Copenhagen showcases Denmark's history, culture, and art through its extensive collections."
+    },
+    {
+      "id": 141,
+      "countryId": 14,
+      "placeName": "Plitvice Lakes National Park",
+      "placeImage": "https://unsplash.com/photos/A6hoSqrce5U",
+      "description": "Plitvice Lakes National Park is a stunning natural wonder in Croatia with cascading waterfalls and crystal-clear lakes."
+    },
+    {
+      "id": 142,
+      "countryId": 14,
+      "placeName": "Dubrovnik Old Town",
+      "placeImage": "https://unsplash.com/photos/fxy7B3vXpHg",
+      "description": "Dubrovnik's Old Town is a UNESCO World Heritage Site known for its well-preserved medieval walls and historic charm."
+    },
+    {
+      "id": 143,
+      "countryId": 14,
+      "placeName": "Plaza Mayor, Zagreb",
+      "placeImage": "https://unsplash.com/photos/ohoBiu7_KNc",
+      "description": "Plaza Mayor is the main square in Zagreb, Croatia's capital, with colorful buildings and a lively atmosphere."
+    },
+    {
+      "id": 144,
+      "countryId": 14,
+      "placeName": "Diocletian's Palace, Split",
+      "placeImage": "https://unsplash.com/photos/P12OyK5wWAA",
+      "description": "Diocletian's Palace is a Roman palace complex in Split, Croatia, and is now a UNESCO World Heritage Site."
+    },
+    {
+      "id": 145,
+      "countryId": 14,
+      "placeName": "Krka National Park",
+      "placeImage": "https://unsplash.com/photos/wmAmMUBpblA",
+      "description": "Krka National Park is known for its waterfalls, lush forests, and historic sites in Croatia."
     }
+
   ]
 }
