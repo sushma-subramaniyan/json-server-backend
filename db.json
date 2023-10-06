@@ -97,6 +97,13 @@
       "capital": "Zagreb",
       "description": "Croatia's Adriatic coast offers stunning beaches, medieval towns, and crystal-clear waters.",
       "image": "https://unsplash.com/photos/tQT5KiZSKpE"
+    },
+    {
+      "id": 15,
+      "name": "Turkey",
+      "capital": "Istanbul",
+      "description": "A city bridging Europe and Asia, known for its historic sites like the Hagia Sophia and Blue Mosque.",
+      "image": "https://unsplash.com/photos/0n0AHB1fgTQ"
     }
 
    
@@ -451,6 +458,27 @@
       "placeName": "Krka National Park",
       "placeImage": "https://unsplash.com/photos/wmAmMUBpblA",
       "description": "Krka National Park is known for its waterfalls, lush forests, and historic sites in Croatia."
+    }, 
+    {
+      "id": 151,
+      "countryId": 15,
+      "placeName": "Hagia Sophia, Istanbul",
+      "placeImage": "https://unsplash.com/photos/ygiZ6MCHPkg",
+      "description": "Hagia Sophia is a historic masterpiece in Istanbul, known for its stunning architecture and rich history. Originally a cathedral, it later became a mosque and is now a museum."
+    },
+    {
+      "id": 152,
+      "countryId": 15,
+      "placeName": "Cappadocia",
+      "placeImage": "https://unsplash.com/photos/vCArUMDcHCQ",
+      "description": "Cappadocia is famous for its unique landscape of fairy chimneys and cave dwellings. Visitors can take hot air balloon rides to admire the breathtaking views."
+    },
+    {
+      "id": 153,
+      "countryId": 15,
+      "placeName": "Pamukkale",
+      "placeImage": "https://unsplash.com/photos/xH-cy_RP0tI",
+      "description": "Pamukkale is a natural wonder featuring terraces of white mineral-rich thermal waters. It's often called the cotton castle due to its stunning appearance."
     }
 
   ]
