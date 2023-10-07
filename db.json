@@ -4,70 +4,70 @@
       "id": 1,
       "name": "France",
       "capital": "Paris",
-      "image": "https://unsplash.com/photos/CB0Qrf8ib4I",
+      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZnJhbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=80",
       "description": "France, located in Western Europe, is renowned for its rich history, culture, and culinary excellence. With iconic landmarks like the Eiffel Tower, a legacy of influential artists and writers, and a diverse landscape, including beautiful wine regions and coastal destinations, France is a top global tourist destination. Its historical contributions, from the Enlightenment to revolutions, have left an indelible mark on world history. France's democratic republic is a leader in various industries, including aerospace and fashion, and is celebrated for its fine wines, cheeses, and gourmet cuisine."
     },
     {
       "id": 2,
       "name": "Italy",
       "capital": "Rome",
-      "image": "https://unsplash.com/photos/hFXZ5cNfkOk",
+      "image": "https://plus.unsplash.com/premium_photo-1661962292128-879bb496ce17?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SXRhbHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
       "description": "Italy, in Southern Europe, is famous for its rich history, art, and culture. Home to iconic landmarks like the Colosseum, the Vatican, and the Leaning Tower of Pisa, Italy offers a blend of historical treasures and stunning natural landscapes. Italian cuisine, known for pasta, pizza, and fine wines, is celebrated worldwide."
     },
     {
       "id": 3,
       "name": "Spain",
       "capital": "Barcelona",
-      "image": "https://unsplash.com/photos/UP22zkjJGZo",
+      "image": "https://images.unsplash.com/photo-1573611030146-ff6916c398fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1951&q=80",
       "description": "Spain, located in southwestern Europe, is known for its vibrant culture, beautiful beaches, and historic cities. Barcelona, the capital of Catalonia, is famous for its unique architecture by Antoni Gaudí, including the Sagrada Família. Spain's cuisine features dishes like paella and tapas, and its festivals, such as La Tomatina, are renowned for their energy and fun."
     },
     {
       "id": 4,
       "name": "Netherlands",
       "capital": "Amsterdam",
-      "image": "https://unsplash.com/photos/njeldz2KN84",
+      "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
       "description": "The Netherlands, known for its picturesque canals, windmills, and tulip fields, is a charming European country. Amsterdam, the capital, offers a mix of historic architecture, world-class museums like the Van Gogh Museum, and a vibrant nightlife scene."
     },
     {
       "id": 5,
       "name": "Czech Republic",
       "capital": "Prague",
-      "image": "https://unsplash.com/photos/nbbghxSeV9Q",
+      "image": "https://images.unsplash.com/photo-1596811311317-c948dd4382dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1771&q=80",
       "description": "The Czech Republic, in Central Europe, is famous for its capital city, Prague. With its stunning old town, Prague Castle, and Charles Bridge, it's a historical and architectural gem."
     },
     {
       "id": 6,
       "name": "Greece",
       "capital": "Athens",
-      "image": "https://unsplash.com/photos/t2ML1dcxjdc",
+      "image": "https://plus.unsplash.com/premium_photo-1661962694871-5422f8c4c506?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
       "description": "Greece, the cradle of Western civilization, boasts Athens as its capital. Here, you'll find iconic landmarks like the Acropolis, Parthenon, and a rich cultural heritage."
     },
     {
       "id": 7,
       "name": "Italy",
       "capital": "Venice",
-      "image": "https://unsplash.com/photos/rknrvCrfS1k",
+      "image": "https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1767&q=80",
       "description": "Venice, Italy, is renowned for its unique and picturesque canals. Visitors can explore the historic city by gondola or walk along its charming streets. It's a city of romance and artistic heritage."
     },
     {
       "id": 8,
       "name": "Ireland",
       "capital": "Dublin",
-      "image": "https://unsplash.com/photos/tfdG9vbKdzo",
+      "image": "https://images.unsplash.com/photo-1557843961-b589ce207737?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
       "description": "Ireland, known for its lush landscapes and friendly people, has Dublin as its capital. Explore the city's historic sites, such as Trinity College and the Guinness Storehouse."
     },
     {
       "id": 9,
       "name": "Austria",
       "capital": "Vienna",
-      "image": "https://unsplash.com/photos/LKBW3401d-0",
+      "image": "https://images.unsplash.com/photo-1597086831879-756db15e81d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
       "description": "Austria, in Central Europe, is home to Vienna, its capital. The city is known for its imperial palaces, classical music heritage, and vibrant coffeehouse culture."
     },
     {
       "id": 10,
       "name": "Scotland",
       "capital": "Edinburgh",
-      "image": "https://unsplash.com/photos/qpQ7NQ2CXA4",
+      "image": "https://images.unsplash.com/photo-1605558162119-2de4d9ff8130?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
       "description": "Scotland, part of the United Kingdom, features Edinburgh as its capital. The city is known for its historic and architectural marvels, including the Edinburgh Castle."
     },
        {
@@ -75,35 +75,35 @@
       "name": "Switzerland",
       "capital": "Bern",
       "description": "Switzerland is renowned for its stunning alpine landscapes, pristine lakes, and charming cities.",
-      "image": "https://unsplash.com/photos/o6UVPje41Lg"
+      "image": "https://images.unsplash.com/photo-1504218727796-db522606b16f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
     },
     {
       "id": 12,
       "name": "Hungary",
       "capital": "Budapest",
       "description": "Hungary offers a rich tapestry of history, thermal baths, and beautiful architecture.",
-      "image": "https://unsplash.com/photos/ezUDjYy17EA"
+      "image": "https://images.unsplash.com/photo-1518471152222-d42e38ce6873?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
     },
     {
       "id": 13,
       "name": "Denmark",
       "capital": "Copenhagen",
       "description": "Denmark is known for its picturesque canals, historic castles, and Scandinavian design.",
-      "image": "https://unsplash.com/photos/SuwFvHU-z-o"
+      "image": "https://images.unsplash.com/photo-1575843456098-25dc4244e9f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80"
     },
     {
       "id": 14,
       "name": "Croatia",
       "capital": "Zagreb",
       "description": "Croatia's Adriatic coast offers stunning beaches, medieval towns, and crystal-clear waters.",
-      "image": "https://unsplash.com/photos/tQT5KiZSKpE"
+      "image": "https://images.unsplash.com/photo-1598259218735-3d05c504e64f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
     },
     {
       "id": 15,
       "name": "Turkey",
       "capital": "Istanbul",
       "description": "A city bridging Europe and Asia, known for its historic sites like the Hagia Sophia and Blue Mosque.",
-      "image": "https://unsplash.com/photos/0n0AHB1fgTQ"
+      "image": "https://images.unsplash.com/photo-1623621534850-d325a1980c7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1771&q=80"
     }
 
    
