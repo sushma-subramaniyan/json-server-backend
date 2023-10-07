@@ -4,8 +4,10 @@
       "id": 1,
       "name": "France",
       "capital": "Paris",
+      "image1": "https://www.animatedimages.org/data/media/764/animated-france-flag-image-0026.gif",
       "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZnJhbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=80",
       "description": "France, located in Western Europe, is renowned for its rich history, culture, and culinary excellence. With iconic landmarks like the Eiffel Tower, a legacy of influential artists and writers, and a diverse landscape, including beautiful wine regions and coastal destinations, France is a top global tourist destination. Its historical contributions, from the Enlightenment to revolutions, have left an indelible mark on world history. France's democratic republic is a leader in various industries, including aerospace and fashion, and is celebrated for its fine wines, cheeses, and gourmet cuisine."
+     
     },
     {
       "id": 2,
