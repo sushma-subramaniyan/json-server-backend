@@ -216,56 +216,56 @@
       "id": 51,
       "countryId": 5,
       "placeName": "Charles Bridge",
-      "placeImage": "https://unsplash.com/photos/OyoaCpMCR0U",
+      "placeImage": "https://images.unsplash.com/photo-1564511287568-54483b52a35e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
       "description": "Charles Bridge is a historic stone bridge that crosses the Vltava River in Prague. It's adorned with statues of saints and provides beautiful views of the city's old town and Prague Castle."
     },
     {
       "id": 52,
       "countryId": 5,
       "placeName": "Prague Castle",
-      "placeImage": "https://unsplash.com/photos/V-tCxUTy5sY",
+      "placeImage": "https://images.unsplash.com/photo-1558370142-c90d11872930?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1878&q=80",
       "description": "Prague Castle is a massive complex that includes the Gothic-style St. Vitus Cathedral, the Old Royal Palace, and the colorful Golden Lane. It's a symbol of Czech history and architecture."
     },
     {
       "id": 53,
       "countryId": 5,
-      "placeName": "",
-      "placeImage": "https://unsplash.com/photos/4SxqIY_fJSk",
+      "placeName": "The Astronomical Clock in Prague's",
+      "placeImage": "https://images.unsplash.com/photo-1659136041334-a608e853b085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1889&q=80",
       "description": "The Astronomical Clock in Prague's Old Town Square is a medieval timekeeping marvel. It features an astronomical dial, a calendar dial, and animated figurines that perform hourly."
     },
     {
       "id": 61,
       "countryId": 6,
       "placeName": "Acropolis",
-      "placeImage": "https://unsplash.com/photos/L0l7gVS-TC0",
+      "placeImage": "https://plus.unsplash.com/premium_photo-1668618252814-76fd5206f523?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1910&q=80",
       "description": "The Acropolis of Athens is a UNESCO World Heritage site and the ancient citadel overlooking Athens. It houses several historic buildings, including the Parthenon, and offers panoramic views of the city."
     },
     {
       "id": 62,
       "countryId": 6,
       "placeName": "Plaka Neighborhood",
-      "placeImage": "https://unsplash.com/photos/sukW98lrXy4",
+      "placeImage": "https://images.unsplash.com/photo-1684196922832-f1caa34e6a14?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
       "description": "The Plaka neighborhood in Athens is a charming area known for its narrow streets, neoclassical architecture, and traditional Greek tavernas. It's a great place to explore and savor Greek cuisine."
     },
     {
       "id": 63,
       "countryId": 6,
       "placeName": "Meteora Monasteries",
-      "placeImage": "https://unsplash.com/photos/872pxjcjjqg",
+      "placeImage": "https://plus.unsplash.com/premium_photo-1661927459496-754b4215ff06?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
       "description": "The Meteora Monasteries, perched atop towering rock pillars in central Greece, are a UNESCO World Heritage site. They are known for their stunning architecture and breathtaking natural surroundings."
     },
     {
       "id": 71,
       "countryId": 7,
       "placeName": "St. Mark's Square",
-      "placeImage": "https://unsplash.com/photos/T8nEzuE7gxI",
+      "placeImage": "https://images.unsplash.com/photo-1559302857-545c032ee3e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "description": "St. Mark's Square in Venice, Italy, is the principal public square of Venice and known for its impressive architecture, including St. Mark's Basilica and the Campanile. It's a popular gathering spot for tourists and locals."
     },
     {
       "id": 72,
       "countryId": 7,
       "placeName": "Grand Canal",
-      "placeImage": "https://unsplash.com/photos/iuMDWx7tWcs",
+      "placeImage": "https://plus.unsplash.com/premium_photo-1677048147739-9efe9b0034fd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
       "description": "The Grand Canal in Venice is the city's main waterway, lined with beautiful palaces, churches, and historic buildings. Visitors can take a scenic gondola ride to admire the architectural beauty."
     },
     {
