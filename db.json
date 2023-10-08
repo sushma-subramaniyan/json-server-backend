@@ -345,24 +345,25 @@
     {
       "id": 91,
       "countryId": 9,
-      "placeName": "Schönbrunn Palace",
-      "placeImage": "https://images.unsplash.com/photo-1663214957746-2da10a9f4b2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1772&q=80",
-      "description": "Schönbrunn Palace in Vienna, Austria, is a magnificent Baroque palace and former imperial residence. Visitors can explore the palace's opulent rooms, beautiful gardens, and the Gloriette structure."
+      "placeName": "Helsinki Cathedral",
+      "placeImage": "https://unsplash.com/photos/HizbL2hT8H0",
+      "description": "Helsinki Cathedral, also known as St. Nicholas' Church, is a magnificent neoclassical cathedral and an iconic landmark in Helsinki. Its distinctive green domes and grand architecture make it a must-visit attraction."
     },
     {
       "id": 92,
       "countryId": 9,
-      "placeName": "Belvedere Palace",
-      "placeImage": "https://images.unsplash.com/photo-1662119431171-494655875da0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
-      "description": "The Belvedere Palace in Vienna is known for its stunning architecture and art collection. It houses works by Gustav Klimt, including 'The Kiss,' and offers a glimpse into Austria's cultural heritage."
+      "placeName": "Suomenlinna Fortress",
+      "placeImage": "https://images.unsplash.com/photo-1627823328876-7ee760562ee4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3VvbWVubGlubmElMjBGb3J0cmVzc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "Suomenlinna Fortress is a UNESCO World Heritage site and a historic sea fortress located on a group of islands in Helsinki. It offers a glimpse into Finland's military history, beautiful coastal views, and a peaceful atmosphere."
     },
     {
       "id": 93,
       "countryId": 9,
-      "placeName": "Vienna State Opera",
-      "placeImage": "https://images.unsplash.com/photo-1589194379031-6b7606daa33d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
-      "description": "The Vienna State Opera is one of the world's most famous opera houses, known for its grand performances and stunning architecture. It's a cultural gem in Vienna."
+      "placeName": "Temppeliaukio Church (Rock Church)",
+      "placeImage": "https://images.unsplash.com/photo-1623307201420-0e57ade261e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "description": "Temppeliaukio Church, also known as the Rock Church, is a unique church built directly into solid rock. Its stunning architecture, natural light, and peaceful ambiance make it a popular attraction for visitors and a serene place for reflection."
     },
+    
     {
       "id": 101,
       "countryId": 10,
