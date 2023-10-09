@@ -70,7 +70,7 @@
     },
     {
       "id": 9,
-      "name": "Helsinki, Finland",
+      "name": "Finland",
       "capital": "Helsinki",
       "image":"https://images.unsplash.com/photo-1566111947159-0fcbf19648bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "image1": "https://images.unsplash.com/photo-1538332576228-eb5b4c4de6f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
@@ -134,7 +134,7 @@
     },
     {
       "id": 17,
-      "name": "Krakow, Poland",
+      "name": "Poland",
       "capital": "Krakow",
       "image1": "https://images.unsplash.com/photo-1672615086343-66afac1abe81?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
       "image": "https://images.unsplash.com/photo-1679254327448-de1afe354b68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
@@ -142,7 +142,7 @@
     },
     {
       "id": 18,
-      "name": "Stockholm,Sweden",
+      "name": "Sweden",
       "capital": "Stockholm",
       "image1": "https://images.unsplash.com/photo-1536788589593-bb9e9a2d9917?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
       "image": "https://images.unsplash.com/photo-1599550344509-9f53c496909c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1892&q=80",
