@@ -56,7 +56,7 @@
         "capital": "Vienna",
         "image1":"https://images.unsplash.com/photo-1516550893923-42d28e5677af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
         "image": "https://images.unsplash.com/photo-1598871955824-3db4b5f9494d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
-        "description": "Austria, located in the heart of Europe, is famous for its stunning Alpine landscapes, historic cities, and rich cultural heritage. Vienna, the capital city, is known for its classical music, imperial palaces, and vibrant coffeehouse culture. The country offers a blend of natural beauty and architectural splendor, making it a must-visit destination for travelers."
+        "description": "Austria, located in the heart of Europe, is famous for its stunning Alpine landscapes, historic cities, and rich cultural heritage. Vienna, the capital city, is known for its classical music, imperial palaces, and vibrant coffeehouse culture. The country offers a blend of natural beauty and architectural splendor, making it a must-visit destination for travelers.Additionally, Austria's charming towns like Salzburg, birthplace of Mozart, and Innsbruck, nestled in the Alps, invite exploration, while the country's passion for winter sports in places like the Tyrolean mountains adds an adventurous dimension to its cultural and natural allure."
       
       
     },
@@ -66,7 +66,7 @@
       "capital": "Dublin",
       "image1":"https://images.unsplash.com/photo-1549918864-48ac978761a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "image": "https://images.unsplash.com/photo-1557843961-b589ce207737?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-      "description": "Ireland, known for its lush landscapes and friendly people, has Dublin as its capital. Explore the city's historic sites, such as Trinity College and the Guinness Storehouse."
+      "description": "Ireland, known for its lush landscapes and friendly people, has Dublin as its capital. Explore the city's historic sites, such as Trinity College and the Guinness Storehouse.Furthermore, Ireland's rich literary heritage, celebrated through the works of James Joyce and W.B. Yeats, adds a layer of cultural depth to the country, and its traditional music and warm, welcoming pubs invite travelers to experience the heart and soul of Irish culture. Ireland's enchanting mix of scenic beauty and cultural treasures ensures a memorable journey for all who visit."
     },
     {
       "id": 9,
@@ -74,7 +74,7 @@
       "capital": "Helsinki",
       "image":"https://images.unsplash.com/photo-1566111947159-0fcbf19648bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "image1": "https://images.unsplash.com/photo-1538332576228-eb5b4c4de6f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "description": "Helsinki, the capital of Finland, is known for its modern architecture, vibrant cultural scene, and beautiful waterfront. The city is home to iconic landmarks like the Helsinki Cathedral and the Suomenlinna Sea Fortress. With its rich history and thriving design culture, Helsinki offers a unique blend of tradition and innovation."
+      "description": "Helsinki, the capital of Finland, is known for its modern architecture, vibrant cultural scene, and beautiful waterfront. The city is home to iconic landmarks like the Helsinki Cathedral and the Suomenlinna Sea Fortress. With its rich history and thriving design culture, Helsinki offers a unique blend of tradition and innovation.Additionally, Helsinki's commitment to sustainability and green spaces, exemplified by its numerous parks and efficient public transportation, makes it a model of urban living in harmony with nature. The city's Nordic charm and forward-thinking approach make it a compelling destination for travelers seeking both cultural richness and environmental consciousness."
     },
     {
       "id": 10,
@@ -82,14 +82,14 @@
       "capital": "Edinburgh",
       "image1":"https://images.unsplash.com/photo-1569668444050-b7bc2bfec0c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
       "image": "https://images.unsplash.com/photo-1605558162119-2de4d9ff8130?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
-      "description": "Scotland, part of the United Kingdom, features Edinburgh as its capital. The city is known for its historic and architectural marvels, including the Edinburgh Castle."
+      "description": "Scotland, part of the United Kingdom, features Edinburgh as its capital. The city is known for its historic and architectural marvels, including the Edinburgh Castle.Moreover, Scotland's rugged landscapes, such as the Scottish Highlands and the Isle of Skye, provide a breathtaking backdrop for outdoor adventures, while its rich cultural heritage, celebrated through Highland games and traditional festivals, invites visitors to immerse themselves in the country's vibrant traditions and natural beauty."
     },
        {
       "id": 11,
       "name": "Switzerland",
       "capital": "Bern",
       "image1":"https://images.unsplash.com/photo-1583495833696-852f6573e8ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
-      "description": "Switzerland is renowned for its stunning alpine landscapes, pristine lakes, and charming cities.",
+      "description": "Switzerland is renowned for its stunning alpine landscapes, pristine lakes, and charming cities.Additionally, Switzerland's commitment to precision and quality is reflected in its world-famous Swiss watches and delectable Swiss chocolates, adding a touch of luxury to its already enticing blend of natural wonders and urban sophistication.",
       "image": "https://images.unsplash.com/photo-1504218727796-db522606b16f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
     },
     {
@@ -97,7 +97,7 @@
       "name": "Hungary",
       "capital": "Budapest",
       "image1":"https://images.unsplash.com/photo-1603978111726-42dd6fedbf67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "description": "Hungary offers a rich tapestry of history, thermal baths, and beautiful architecture.",
+      "description": "Hungary offers a rich tapestry of history, thermal baths, and beautiful architecture.Furthermore, the vibrant cultural scene in Budapest, Hungary's capital, showcases its love for music, art, and culinary delights, making it a delightful destination for those seeking a harmonious blend of tradition and contemporary living.",
       "image": "https://images.unsplash.com/photo-1518471152222-d42e38ce6873?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
     },
     {
@@ -105,7 +105,7 @@
       "name": "Denmark",
       "capital": "Copenhagen",
       "image1":"https://plus.unsplash.com/premium_photo-1691414363231-836e2e1bf0ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "description": "Denmark is known for its picturesque canals, historic castles, and Scandinavian design.",
+      "description": "Denmark is known for its picturesque canals, historic castles, and Scandinavian design.Moreover, Denmark's emphasis on sustainability and bicycle-friendly cities reflects its commitment to green living, creating a harmonious balance between preserving its cultural heritage and embracing modern, eco-conscious urban living.",
       "image": "https://images.unsplash.com/photo-1575843456098-25dc4244e9f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80"
     },
     {
@@ -113,7 +113,7 @@
       "name": "Croatia",
       "capital": "Zagreb",
       "image1":"https://plus.unsplash.com/premium_photo-1661963915825-9dee778ad548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "description": "Croatia's Adriatic coast offers stunning beaches, medieval towns, and crystal-clear waters.",
+      "description": "Croatia's Adriatic coast offers stunning beaches, medieval towns, and crystal-clear waters.Furthermore, Croatia's rich cultural heritage, with influences from Roman, Venetian, and Ottoman eras, is evident in its diverse architecture, making it a fascinating destination for history enthusiasts and beach lovers alike.",
       "image": "https://images.unsplash.com/photo-1598259218735-3d05c504e64f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
     },
     {
@@ -121,7 +121,7 @@
       "name": "Turkey",
       "capital": "Istanbul",
       "image1":"https://plus.unsplash.com/premium_photo-1661962322472-e0be5fa94a36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "description": "A city bridging Europe and Asia, known for its historic sites like the Hagia Sophia and Blue Mosque.",
+      "description": "A city bridging Europe and Asia, known for its historic sites like the Hagia Sophia and Blue Mosque.Furthermore, Istanbul's bustling bazaars, such as the Grand Bazaar and Spice Bazaar, offer an immersive sensory experience, where centuries-old traditions and vibrant market life converge in a vibrant tapestry of flavors and treasures.",
       "image": "https://images.unsplash.com/photo-1623621534850-d325a1980c7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1771&q=80"
     },
     {
@@ -171,6 +171,29 @@
       "image1": "https://images.unsplash.com/photo-1478088913771-e3a36f50bb63?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1838&q=80",
       "image": "https://images.unsplash.com/photo-1584520156104-f9a32b3270aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
       "description": "Slovenia, located in central Europe, is known for its stunning natural beauty, including the picturesque Lake Bled, the Julian Alps, and pristine forests. The capital city, Ljubljana, boasts a charming old town with a medieval castle overlooking the city. Slovenia is famous for its outdoor activities, such as hiking, skiing, and cycling. Its rich cultural heritage, delicious cuisine, and warm hospitality make it a delightful destination for travelers."
+    },
+    {
+      "id":22,
+      "name":"Germany",
+      "capital":"Berlin",
+      "image1":"https://images.unsplash.com/photo-1467269204594-9661b134dd2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "image":"https://images.unsplash.com/photo-1554072675-66db59dba46f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1773&q=80",
+      "description":"Germany, located in the heart of Europe, is a country renowned for its blend of rich history, innovative culture, and scenic landscapes. Its vibrant cities, like Berlin with its modern architecture and Munich with its traditional beer gardens, showcase the country's diversity. Germany is steeped in history, from the remnants of the Berlin Wall to the medieval charm of towns like Rothenburg. The country's efficient public transportation system, love for the arts, and culinary delights like sausages and pretzels make it a captivating destination for travelers of all interests."
+    },
+    {
+      "id":23,
+      "name":"Isle of Man",
+      "capital":"Douglas",
+      "image1":"https://images.unsplash.com/photo-1589329517220-7c9aaec0ebeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1773&q=80",
+      "image":"https://images.unsplash.com/photo-1578417827807-c002306916ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "description":"The Isle of Man, situated in the Irish Sea, is a charming self-governing British Crown dependency. Known for its rugged coastlines, rolling green hills, and picturesque fishing villages, it offers a serene escape into nature. The island is famous for the annual Isle of Man TT motorcycle race, showcasing its deep-rooted passion for motorsport. With a rich Celtic history and unique cultural traditions, the Isle of Man is a captivating destination for those seeking tranquility and a touch of adventure."
+    },
+    {
+      "id":24,
+      "name":"Moldova",
+      "image1":"https://images.unsplash.com/photo-1628682075473-063c0845015a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "image":"https://images.unsplash.com/photo-1628456006794-c112e5a06d27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1866&q=80",
+      "description":"Moldova, located in Eastern Europe, is a country known for its serene countryside, including lush vineyards and scenic landscapes. The capital, Chisinau, boasts Soviet-era architecture and vibrant markets. Moldova is renowned for its winemaking traditions, producing some of Europe's finest wines. Despite its small size, the country offers a unique blend of history, culture, and natural beauty for travelers to explore."
     }
    ],
   "tourist": [
@@ -671,6 +694,27 @@
           "placeName": "Triglav National Park",
           "placeImage": "https://images.unsplash.com/photo-1611919965499-2c2c6567d38c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
           "description": "Immerse yourself in the natural beauty of Triglav National Park, known for its stunning landscapes and outdoor activities."
+        },
+        {
+          "id":221,
+          "countryId":22,
+          "placeName":"Neuschwanstein Castle",
+          "placeImage":"https://images.unsplash.com/photo-1580677616212-2fa929e9c2cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+          "description":" Located in Bavaria, this fairy-tale castle is a true masterpiece of 19th-century Romantic architecture. It inspired Disney's Cinderella Castle and is set against a backdrop of stunning mountain scenery."
+        },
+        {
+          "id":222,
+          "countryId":22,
+          "placeName":"Brandenburg Gate",
+          "placeImage":"https://images.unsplash.com/photo-1587330979470-3595ac045ab0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "description":"Situated in Berlin, the Brandenburg Gate is a symbol of German unity and an iconic monument. It has witnessed pivotal moments in history and stands as a powerful reminder of the nation's past."
+        },
+        {
+          "id":223,
+          "countryId":22,
+          "placeName":"Cologne Cathedral",
+          "placeImage":"https://images.unsplash.com/photo-1558882641-1ec5a4941143?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1955&q=80",
+          "description":"This awe-inspiring Gothic cathedral in Cologne is not only a place of worship but also a UNESCO World Heritage Site. Its intricate architecture and towering spires make it a must-visit landmark in Germany."
         }
 
   ]
