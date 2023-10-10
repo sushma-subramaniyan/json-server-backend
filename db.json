@@ -707,14 +707,14 @@
           "countryId":22,
           "placeName":"Brandenburg Gate",
           "placeImage":"https://images.unsplash.com/photo-1587330979470-3595ac045ab0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          "description":"Situated in Berlin, the Brandenburg Gate is a symbol of German unity and an iconic monument. It has witnessed pivotal moments in history and stands as a powerful reminder of the nation's past."
+          "description":"Situated in Berlin, the Brandenburg Gate is a symbol of German unity and an iconic monument. It has witnessed pivotal moments in history and stands as a powerful reminder of the nation's past.The Brandenburg Gate, situated in Berlin, Germany, is an iconic neoclassical monument that stands as a symbol of unity and peace. Built in the late 18th century, it once marked the entrance to the city and has witnessed significant historical events. Its grand design features Doric columns and a chariot-topped quadriga, making it a popular tourist attraction and a testament to Berlin's history and resilience."
         },
         {
           "id":223,
           "countryId":22,
           "placeName":"Cologne Cathedral",
           "placeImage":"https://images.unsplash.com/photo-1558882641-1ec5a4941143?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1955&q=80",
-          "description":"This awe-inspiring Gothic cathedral in Cologne is not only a place of worship but also a UNESCO World Heritage Site. Its intricate architecture and towering spires make it a must-visit landmark in Germany."
+          "description":"The Cologne Cathedral, located in Cologne, Germany, is a magnificent Gothic masterpiece known for its stunning architecture. Standing as a symbol of the city, it boasts intricate stone carvings and towering spires. Construction began in the 13th century, and it remains one of Europe's largest cathedrals, attracting millions of visitors annually. Inside, visitors can admire its impressive stained glass windows and rich history."
         }
   ]
 }
