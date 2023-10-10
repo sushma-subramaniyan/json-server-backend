@@ -7,12 +7,11 @@
       "image1": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80",
       "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZnJhbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=80",
       "description": "France, located in Western Europe, is renowned for its rich history, culture, and culinary excellence. With iconic landmarks like the Eiffel Tower, a legacy of influential artists and writers, and a diverse landscape, including beautiful wine regions and coastal destinations, France is a top global tourist destination. Its historical contributions, from the Enlightenment to revolutions, have left an indelible mark on world history."
-     
     },
     {
       "id": 2,
       "name": "Italy",
-      "image1":"https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1996&q=80",
+      "image1": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1996&q=80",
       "capital": "Rome",
       "image": "https://plus.unsplash.com/premium_photo-1661962292128-879bb496ce17?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SXRhbHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
       "description": "Italy, in Southern Europe, is famous for its rich history, art, and culture. Home to iconic landmarks like the Colosseum, the Vatican, and the Leaning Tower of Pisa, Italy offers a blend of historical treasures and stunning natural landscapes. Italian cuisine, known for pasta, pizza, and fine wines, is celebrated worldwide."
@@ -21,7 +20,7 @@
       "id": 3,
       "name": "Spain",
       "capital": "Barcelona",
-      "image1":"https://images.unsplash.com/photo-1561632669-7f55f7975606?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://images.unsplash.com/photo-1561632669-7f55f7975606?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "image": "https://images.unsplash.com/photo-1573611030146-ff6916c398fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1951&q=80",
       "description": "Spain, located in southwestern Europe, is known for its vibrant culture, beautiful beaches, and historic cities. Barcelona, the capital of Catalonia, is famous for its unique architecture by Antoni Gaudí, including the Sagrada Família. Spain's cuisine features dishes like paella and tapas, and its festivals, such as La Tomatina, are renowned for their energy and fun."
     },
@@ -29,7 +28,7 @@
       "id": 4,
       "name": "Netherlands",
       "capital": "Amsterdam",
-      "image1":"https://images.unsplash.com/photo-1581460436937-81f19e138de2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "image1": "https://images.unsplash.com/photo-1581460436937-81f19e138de2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
       "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
       "description": "The Netherlands, known for its picturesque canals, windmills, and tulip fields, is a charming European country. Amsterdam, the capital, offers a mix of historic architecture, world-class museums like the Van Gogh Museum, and a vibrant nightlife scene."
     },
@@ -37,7 +36,7 @@
       "id": 5,
       "name": "Czech Republic",
       "capital": "Prague",
-      "image1":"https://images.unsplash.com/photo-1609934307938-23458b0861f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://images.unsplash.com/photo-1609934307938-23458b0861f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "image": "https://images.unsplash.com/photo-1596811311317-c948dd4382dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1771&q=80",
       "description": "The Czech Republic, in Central Europe, is famous for its capital city, Prague. With its stunning old town, Prague Castle, and Charles Bridge, it's a historical and architectural gem."
     },
@@ -45,26 +44,23 @@
       "id": 6,
       "name": "Greece",
       "capital": "Athens",
-      "image1":"https://images.unsplash.com/photo-1590746197887-4420dda1e540?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "image1": "https://images.unsplash.com/photo-1590746197887-4420dda1e540?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
       "image": "https://plus.unsplash.com/premium_photo-1661962694871-5422f8c4c506?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
       "description": "Greece, the cradle of Western civilization, boasts Athens as its capital. Here, you'll find iconic landmarks like the Acropolis, Parthenon, and a rich cultural heritage."
     },
     {
-      
-        "id": 7,
-        "name": "Austria",
-        "capital": "Vienna",
-        "image1":"https://images.unsplash.com/photo-1516550893923-42d28e5677af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
-        "image": "https://images.unsplash.com/photo-1598871955824-3db4b5f9494d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
-        "description": "Austria, located in the heart of Europe, is famous for its stunning Alpine landscapes, historic cities, and rich cultural heritage. Vienna, the capital city, is known for its classical music, imperial palaces, and vibrant coffeehouse culture. The country offers a blend of natural beauty and architectural splendor, making it a must-visit destination for travelers."
-      
-      
+      "id": 7,
+      "name": "Austria",
+      "capital": "Vienna",
+      "image1": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
+      "image": "https://images.unsplash.com/photo-1598871955824-3db4b5f9494d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "description": "Austria, located in the heart of Europe, is famous for its stunning Alpine landscapes, historic cities, and rich cultural heritage. Vienna, the capital city, is known for its classical music, imperial palaces, and vibrant coffeehouse culture. The country offers a blend of natural beauty and architectural splendor, making it a must-visit destination for travelers."
     },
     {
       "id": 8,
       "name": "Ireland",
       "capital": "Dublin",
-      "image1":"https://images.unsplash.com/photo-1549918864-48ac978761a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://images.unsplash.com/photo-1549918864-48ac978761a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "image": "https://images.unsplash.com/photo-1557843961-b589ce207737?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
       "description": "Ireland, known for its lush landscapes and friendly people, has Dublin as its capital. Explore the city's historic sites, such as Trinity College and the Guinness Storehouse."
     },
@@ -72,7 +68,7 @@
       "id": 9,
       "name": "Finland",
       "capital": "Helsinki",
-      "image":"https://images.unsplash.com/photo-1566111947159-0fcbf19648bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image": "https://images.unsplash.com/photo-1566111947159-0fcbf19648bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "image1": "https://images.unsplash.com/photo-1538332576228-eb5b4c4de6f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "description": "Helsinki, the capital of Finland, is known for its modern architecture, vibrant cultural scene, and beautiful waterfront. The city is home to iconic landmarks like the Helsinki Cathedral and the Suomenlinna Sea Fortress. With its rich history and thriving design culture, Helsinki offers a unique blend of tradition and innovation."
     },
@@ -80,15 +76,15 @@
       "id": 10,
       "name": "Scotland",
       "capital": "Edinburgh",
-      "image1":"https://images.unsplash.com/photo-1569668444050-b7bc2bfec0c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "image1": "https://images.unsplash.com/photo-1569668444050-b7bc2bfec0c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
       "image": "https://images.unsplash.com/photo-1605558162119-2de4d9ff8130?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
       "description": "Scotland, part of the United Kingdom, features Edinburgh as its capital. The city is known for its historic and architectural marvels, including the Edinburgh Castle."
     },
-       {
+    {
       "id": 11,
       "name": "Switzerland",
       "capital": "Bern",
-      "image1":"https://images.unsplash.com/photo-1583495833696-852f6573e8ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "image1": "https://images.unsplash.com/photo-1583495833696-852f6573e8ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
       "description": "Switzerland is renowned for its stunning alpine landscapes, pristine lakes, and charming cities.",
       "image": "https://images.unsplash.com/photo-1504218727796-db522606b16f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
     },
@@ -96,7 +92,7 @@
       "id": 12,
       "name": "Hungary",
       "capital": "Budapest",
-      "image1":"https://images.unsplash.com/photo-1603978111726-42dd6fedbf67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://images.unsplash.com/photo-1603978111726-42dd6fedbf67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "description": "Hungary offers a rich tapestry of history, thermal baths, and beautiful architecture.",
       "image": "https://images.unsplash.com/photo-1518471152222-d42e38ce6873?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
     },
@@ -104,7 +100,7 @@
       "id": 13,
       "name": "Denmark",
       "capital": "Copenhagen",
-      "image1":"https://plus.unsplash.com/premium_photo-1691414363231-836e2e1bf0ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://plus.unsplash.com/premium_photo-1691414363231-836e2e1bf0ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "description": "Denmark is known for its picturesque canals, historic castles, and Scandinavian design.",
       "image": "https://images.unsplash.com/photo-1575843456098-25dc4244e9f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80"
     },
@@ -112,7 +108,7 @@
       "id": 14,
       "name": "Croatia",
       "capital": "Zagreb",
-      "image1":"https://plus.unsplash.com/premium_photo-1661963915825-9dee778ad548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://plus.unsplash.com/premium_photo-1661963915825-9dee778ad548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "description": "Croatia's Adriatic coast offers stunning beaches, medieval towns, and crystal-clear waters.",
       "image": "https://images.unsplash.com/photo-1598259218735-3d05c504e64f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
     },
@@ -120,7 +116,7 @@
       "id": 15,
       "name": "Turkey",
       "capital": "Istanbul",
-      "image1":"https://plus.unsplash.com/premium_photo-1661962322472-e0be5fa94a36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://plus.unsplash.com/premium_photo-1661962322472-e0be5fa94a36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "description": "A city bridging Europe and Asia, known for its historic sites like the Hagia Sophia and Blue Mosque.",
       "image": "https://images.unsplash.com/photo-1623621534850-d325a1980c7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1771&q=80"
     },
@@ -172,7 +168,7 @@
       "image": "https://images.unsplash.com/photo-1584520156104-f9a32b3270aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
       "description": "Slovenia, located in central Europe, is known for its stunning natural beauty, including the picturesque Lake Bled, the Julian Alps, and pristine forests. The capital city, Ljubljana, boasts a charming old town with a medieval castle overlooking the city. Slovenia is famous for its outdoor activities, such as hiking, skiing, and cycling. Its rich cultural heritage, delicious cuisine, and warm hospitality make it a delightful destination for travelers."
     }
-   ],
+  ],
   "tourist": [
     {
       "id": 11,
@@ -363,7 +359,6 @@
       "placeImage": "https://images.unsplash.com/photo-1623307201420-0e57ade261e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
       "description": "Temppeliaukio Church, also known as the Rock Church, is a unique church built directly into solid rock. Its stunning architecture, natural light, and peaceful ambiance make it a popular attraction for visitors and a serene place for reflection."
     },
-    
     {
       "id": 101,
       "countryId": 10,
@@ -385,7 +380,7 @@
       "placeImage": "https://images.unsplash.com/photo-1676825707541-4ad86c62ea58?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
       "description": "Arthur's Seat is an ancient volcano and hill in the center of Edinburgh. It offers panoramic views of the city and is a popular hiking destination."
     },
-       {
+    {
       "id": 111,
       "countryId": 11,
       "placeName": "Swiss Alps",
@@ -524,7 +519,7 @@
       "placeName": "Krka National Park",
       "placeImage": "https://images.unsplash.com/photo-1654690678512-3c950938b033?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1772&q=80",
       "description": "Krka National Park is known for its waterfalls, lush forests, and historic sites in Croatia."
-    }, 
+    },
     {
       "id": 151,
       "countryId": 15,
@@ -547,131 +542,131 @@
       "description": "Pamukkale is a natural wonder featuring terraces of white mineral-rich thermal waters. It's often called the cotton castle due to its stunning appearance."
     },
     {
-          "id": 161,
-          "countryId": 16,
-          "placeName": "The Hermitage Museum, St. Petersburg",
-          "placeImage": "https://images.unsplash.com/photo-1620119588113-83409b370495?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGhlJTIwSGVybWl0YWdlJTIwTXVzZXVtJTJDJTIwU3QuJTIwUGV0ZXJzYnVyZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-          "description": "Explore one of the world's largest and oldest museums, featuring a vast collection of art and cultural artifacts."
-        },
-        {
-          "id": 162,
-          "countryId": 16,
-          "placeName": "Peterhof Palace, St. Petersburg",
-          "placeImage": "https://images.unsplash.com/photo-1686639197400-180460e23dfa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1888&q=80",
-          "description": "Visit the stunning palace complex known for its magnificent gardens and impressive fountains."
-        },
-        {
-          "id": 163,
-          "countryId": 16,
-          "placeName": "Catherine Palace, Pushkin",
-          "placeImage": "https://images.unsplash.com/photo-1552475112-72b6f4bc2f8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1886&q=80",
-          "description": "Discover the opulent summer residence of the Russian tsars, known for its extravagant interiors and beautiful gardens."
-        },
-        {
-          "id": 171,
-          "countryId": 17,
-          "placeName": "Wawel Castle, Krakow",
-          "placeImage": "https://images.unsplash.com/photo-1586178524385-af8c3fb367c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
-          "description": "Explore this historic castle complex with a rich history and beautiful architecture."
-        },
-        {
-          "id": 172,
-          "countryId": 17,
-          "placeName": "Auschwitz-Birkenau Memorial and Museum",
-          "placeImage": "https://images.unsplash.com/photo-1669475394197-2862a195f3e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          "description": "Pay tribute to the memory of those who suffered during the Holocaust at this poignant memorial and museum."
-        },
-        {
-          "id": 173,
-          "countryId": 17,
-          "placeName": "Krakow Old Town",
-          "placeImage": "https://images.unsplash.com/photo-1579653099868-e2a134432861?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
-          "description": "Stroll through the well-preserved medieval Old Town of Krakow, a UNESCO World Heritage site."
-        },
-        {
-          "id": 181,
-          "countryId": 18,
-          "placeName": "Vasa Museum, Stockholm",
-          "placeImage": "https://images.unsplash.com/photo-1675068176915-33a31edfc51b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
-          "description": "Marvel at the Vasa, a 17th-century warship that sank and was salvaged, now displayed in this unique museum."
-        },
-        {
-          "id": 182,
-          "countryId": 18,
-          "placeName": "Gamla Stan (Old Town), Stockholm",
-          "placeImage": "https://images.unsplash.com/photo-1543139465-aa8dc66dc427?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
-          "description": "Wander through the charming streets of Stockholm's Old Town, known for its historic buildings and cobblestone streets."
-        },
-        {
-          "id": 183,
-          "countryId": 18,
-          "placeName": "Skansen Open-Air Museum, Stockholm",
-          "placeImage": "https://images.unsplash.com/photo-1517824488624-8d6e5cdbf991?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
-          "description": "Experience Swedish history and culture in this open-air museum with historic buildings and traditions."
-        },
-        {
-          "id": 191,
-          "countryId": 19,
-          "placeName": "Belem Tower, Lisbon",
-          "placeImage": "https://images.unsplash.com/photo-1649020688467-760d50f99552?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1914&q=80",
-          "description": "Explore this iconic tower on the Tagus River, a UNESCO World Heritage site and symbol of Portugal's Age of Discovery."
-        },
-        {
-          "id": 192,
-          "countryId": 19,
-          "placeName": "Douro Valley",
-          "placeImage": "https://images.unsplash.com/photo-1604850849447-6435708cb130?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
-          "description": "Visit the picturesque Douro Valley, known for its terraced vineyards and wine production."
-        },
-        {
-          "id": 193,
-          "countryId": 19,
-          "placeName": "Sintra",
-          "placeImage": "https://images.unsplash.com/photo-1562195168-c82fea0f0953?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
-          "description": "Discover the enchanting town of Sintra, home to colorful palaces, including the Palácio Nacional de Sintra."
-        },
-        {
-          "id": 201,
-          "countryId": 20,
-          "placeName": "Blue Lagoon, Grindavik",
-          "placeImage": "https://images.unsplash.com/photo-1542472253-d83a7be5f534?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1889&q=80",
-          "description": "Relax in the famous geothermal spa known for its milky-blue waters and rejuvenating properties."
-        },
-        {
-          "id": 202,
-          "countryId": 20,
-          "placeName": "Golden Circle",
-          "placeImage": "https://images.unsplash.com/photo-1603226851957-1768f812309b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          "description": "Take a tour of the Golden Circle, featuring highlights like Thingvellir National Park and Geysir geothermal area."
-        },
-        {
-          "id": 203,
-          "countryId": 20,
-          "placeName": "Reykjavik Old Harbor",
-          "placeImage": "https://images.unsplash.com/photo-1547081835-6ad9428582f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UmV5a2phdmlrJTIwT2xkJTIwSGFyYm9yfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-          "description": "Enjoy the vibrant atmosphere and waterfront dining at the Old Harbor in Reykjavik."
-        },
-        {
-          "id": 211,
-          "countryId": 21,
-          "placeName": "Lake Bled",
-          "placeImage": "https://images.unsplash.com/photo-1589345523238-383513aeaaa7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          "description": "Visit the stunning Lake Bled with its island church and medieval castle perched on a hill."
-        },
-        {
-          "id": 212,
-          "countryId": 21,
-          "placeName": "Ljubljana Castle, Ljubljana",
-          "placeImage": "https://images.unsplash.com/photo-1600541983502-515aaed479a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2038&q=80",
-          "description": "Explore the historic Ljubljana Castle overlooking the charming capital city of Slovenia."
-        },
-        {
-          "id": 213,
-          "countryId": 21,
-          "placeName": "Triglav National Park",
-          "placeImage": "https://images.unsplash.com/photo-1611919965499-2c2c6567d38c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          "description": "Immerse yourself in the natural beauty of Triglav National Park, known for its stunning landscapes and outdoor activities."
-        }
-
+      "id": 161,
+      "countryId": 16,
+      "placeName": "The Hermitage Museum, St. Petersburg",
+      "placeImage": "https://images.unsplash.com/photo-1620119588113-83409b370495?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGhlJTIwSGVybWl0YWdlJTIwTXVzZXVtJTJDJTIwU3QuJTIwUGV0ZXJzYnVyZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "Explore one of the world's largest and oldest museums, featuring a vast collection of art and cultural artifacts."
+    },
+    {
+      "id": 162,
+      "countryId": 16,
+      "placeName": "Peterhof Palace, St. Petersburg",
+      "placeImage": "https://images.unsplash.com/photo-1686639197400-180460e23dfa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1888&q=80",
+      "description": "Visit the stunning palace complex known for its magnificent gardens and impressive fountains."
+    },
+    {
+      "id": 163,
+      "countryId": 16,
+      "placeName": "Catherine Palace, Pushkin",
+      "placeImage": "https://images.unsplash.com/photo-1552475112-72b6f4bc2f8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1886&q=80",
+      "description": "Discover the opulent summer residence of the Russian tsars, known for its extravagant interiors and beautiful gardens."
+    },
+    {
+      "id": 171,
+      "countryId": 17,
+      "placeName": "Wawel Castle, Krakow",
+      "placeImage": "https://images.unsplash.com/photo-1586178524385-af8c3fb367c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "description": "Explore this historic castle complex with a rich history and beautiful architecture."
+    },
+    {
+      "id": 172,
+      "countryId": 17,
+      "placeName": "Auschwitz-Birkenau Memorial and Museum",
+      "placeImage": "https://images.unsplash.com/photo-1669475394197-2862a195f3e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "Pay tribute to the memory of those who suffered during the Holocaust at this poignant memorial and museum."
+    },
+    {
+      "id": 173,
+      "countryId": 17,
+      "placeName": "Krakow Old Town",
+      "placeImage": "https://images.unsplash.com/photo-1579653099868-e2a134432861?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "description": "Stroll through the well-preserved medieval Old Town of Krakow, a UNESCO World Heritage site."
+    },
+    {
+      "id": 181,
+      "countryId": 18,
+      "placeName": "Vasa Museum, Stockholm",
+      "placeImage": "https://images.unsplash.com/photo-1675068176915-33a31edfc51b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+      "description": "Marvel at the Vasa, a 17th-century warship that sank and was salvaged, now displayed in this unique museum."
+    },
+    {
+      "id": 182,
+      "countryId": 18,
+      "placeName": "Gamla Stan (Old Town), Stockholm",
+      "placeImage": "https://images.unsplash.com/photo-1543139465-aa8dc66dc427?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "description": "Wander through the charming streets of Stockholm's Old Town, known for its historic buildings and cobblestone streets."
+    },
+    {
+      "id": 183,
+      "countryId": 18,
+      "placeName": "Skansen Open-Air Museum, Stockholm",
+      "placeImage": "https://images.unsplash.com/photo-1517824488624-8d6e5cdbf991?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "description": "Experience Swedish history and culture in this open-air museum with historic buildings and traditions."
+    },
+    {
+      "id": 191,
+      "countryId": 19,
+      "placeName": "Belem Tower, Lisbon",
+      "placeImage": "https://images.unsplash.com/photo-1649020688467-760d50f99552?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1914&q=80",
+      "description": "Explore this iconic tower on the Tagus River, a UNESCO World Heritage site and symbol of Portugal's Age of Discovery."
+    },
+    {
+      "id": 192,
+      "countryId": 19,
+      "placeName": "Douro Valley",
+      "placeImage": "https://images.unsplash.com/photo-1604850849447-6435708cb130?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "description": "Visit the picturesque Douro Valley, known for its terraced vineyards and wine production."
+    },
+    {
+      "id": 193,
+      "countryId": 19,
+      "placeName": "Sintra",
+      "placeImage": "https://images.unsplash.com/photo-1562195168-c82fea0f0953?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "description": "Discover the enchanting town of Sintra, home to colorful palaces, including the Palácio Nacional de Sintra."
+    },
+    {
+      "id": 201,
+      "countryId": 20,
+      "placeName": "Blue Lagoon, Grindavik",
+      "placeImage": "https://images.unsplash.com/photo-1542472253-d83a7be5f534?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1889&q=80",
+      "description": "Relax in the famous geothermal spa known for its milky-blue waters and rejuvenating properties."
+    },
+    {
+      "id": 202,
+      "countryId": 20,
+      "placeName": "Golden Circle",
+      "placeImage": "https://images.unsplash.com/photo-1603226851957-1768f812309b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "Take a tour of the Golden Circle, featuring highlights like Thingvellir National Park and Geysir geothermal area."
+    },
+    {
+      "id": 203,
+      "countryId": 20,
+      "placeName": "Reykjavik Old Harbor",
+      "placeImage": "https://images.unsplash.com/photo-1547081835-6ad9428582f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UmV5a2phdmlrJTIwT2xkJTIwSGFyYm9yfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "description": "Enjoy the vibrant atmosphere and waterfront dining at the Old Harbor in Reykjavik."
+    },
+    {
+      "id": 211,
+      "countryId": 21,
+      "placeName": "Lake Bled",
+      "placeImage": "https://images.unsplash.com/photo-1589345523238-383513aeaaa7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "Visit the stunning Lake Bled with its island church and medieval castle perched on a hill."
+    },
+    {
+      "id": 212,
+      "countryId": 21,
+      "placeName": "Ljubljana Castle, Ljubljana",
+      "placeImage": "https://images.unsplash.com/photo-1600541983502-515aaed479a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2038&q=80",
+      "description": "Explore the historic Ljubljana Castle overlooking the charming capital city of Slovenia."
+    },
+    {
+      "id": 213,
+      "countryId": 21,
+      "placeName": "Triglav National Park",
+      "placeImage": "https://images.unsplash.com/photo-1611919965499-2c2c6567d38c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "Immerse yourself in the natural beauty of Triglav National Park, known for its stunning landscapes and outdoor activities."
+    }
+   
   ]
 }
