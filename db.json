@@ -7,12 +7,11 @@
       "image1": "https://images.unsplash.com/photo-1616091216791-a5360b5fc78a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1895&q=80",
       "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZnJhbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=80",
       "description": "France, located in Western Europe, is renowned for its rich history, culture, and culinary excellence. With iconic landmarks like the Eiffel Tower, a legacy of influential artists and writers, and a diverse landscape, including beautiful wine regions and coastal destinations, France is a top global tourist destination. Its historical contributions, from the Enlightenment to revolutions, have left an indelible mark on world history."
-     
     },
     {
       "id": 2,
       "name": "Italy",
-      "image1":"https://images.unsplash.com/photo-1528123887526-0775584e2093?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80",
+      "image1": "https://images.unsplash.com/photo-1528123887526-0775584e2093?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80",
       "capital": "Rome",
       "image": "https://plus.unsplash.com/premium_photo-1661962292128-879bb496ce17?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SXRhbHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
       "description": "Italy, in Southern Europe, is famous for its rich history, art, and culture. Home to iconic landmarks like the Colosseum, the Vatican, and the Leaning Tower of Pisa, Italy offers a blend of historical treasures and stunning natural landscapes. Italian cuisine, known for pasta, pizza, and fine wines, is celebrated worldwide.Moreover, Italy's warm and welcoming people, known for their hospitality and passion, add an unforgettable dimension to the country's unique charm, making every visit a memorable cultural experience. Italy truly beckons as a destination where history, art, nature, cuisine, and the warmth of its people come together to create an extraordinary journey of discovery."
@@ -21,7 +20,7 @@
       "id": 3,
       "name": "Spain",
       "capital": "Barcelona",
-      "image1":"https://images.unsplash.com/photo-1561632669-7f55f7975606?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://images.unsplash.com/photo-1561632669-7f55f7975606?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "image": "https://images.unsplash.com/photo-1573611030146-ff6916c398fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1951&q=80",
       "description": "Spain, located in southwestern Europe, is known for its vibrant culture, beautiful beaches, and historic cities. Barcelona, the capital of Catalonia, is famous for its unique architecture by Antoni Gaudí, including the Sagrada Família. Spain's cuisine features dishes like paella and tapas, and its festivals, such as La Tomatina, are renowned for their energy and fun."
     },
@@ -29,7 +28,7 @@
       "id": 4,
       "name": "Netherlands",
       "capital": "Amsterdam",
-      "image1":"https://images.unsplash.com/photo-1581460436937-81f19e138de2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "image1": "https://images.unsplash.com/photo-1581460436937-81f19e138de2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
       "image": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
       "description": "The Netherlands, known for its picturesque canals, windmills, and tulip fields, is a charming European country. Amsterdam, the capital, offers a mix of historic architecture, world-class museums like the Van Gogh Museum, and a vibrant nightlife scene.Furthermore, the Netherlands' commitment to sustainability and eco-friendly initiatives is evident in its bicycle-friendly infrastructure and innovative urban planning, making it a progressive and forward-thinking destination for travelers seeking both natural beauty and environmental consciousness. The country's famous flower markets, like Keukenhof, showcase the Netherlands' dedication to preserving and celebrating its rich horticultural heritage."
     },
@@ -37,7 +36,7 @@
       "id": 5,
       "name": "Czech Republic",
       "capital": "Prague",
-      "image1":"https://images.unsplash.com/photo-1609934307938-23458b0861f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://images.unsplash.com/photo-1609934307938-23458b0861f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "image": "https://images.unsplash.com/photo-1596811311317-c948dd4382dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1771&q=80",
       "description": "The Czech Republic, in Central Europe, is famous for its capital city, Prague. With its stunning old town, Prague Castle, and Charles Bridge, it's a historical and architectural gem.Furthermore, the Czech Republic boasts a wealth of natural beauty, from the lush Bohemian forests to the serene countryside dotted with picturesque villages. Exploring beyond Prague unveils a country of diverse landscapes, charming towns, and outdoor adventures, making it a well-rounded destination for travelers seeking history, culture, and natural wonders in the heart of Europe."
     },
@@ -45,26 +44,23 @@
       "id": 6,
       "name": "Greece",
       "capital": "Athens",
-      "image1":"https://images.unsplash.com/photo-1590746197887-4420dda1e540?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "image1": "https://images.unsplash.com/photo-1590746197887-4420dda1e540?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
       "image": "https://plus.unsplash.com/premium_photo-1661962694871-5422f8c4c506?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
       "description": "Greece, the cradle of Western civilization, boasts Athens as its capital. Here, you'll find iconic landmarks like the Acropolis, Parthenon, and a rich cultural heritage.Moreover, Greece's enchanting islands, with their crystal-clear waters, whitewashed buildings, and vibrant blue-domed churches, offer a stunning contrast to the historical grandeur of Athens, making Greece a destination that seamlessly blends ancient history with Mediterranean beauty."
     },
     {
-      
-        "id": 7,
-        "name": "Austria",
-        "capital": "Vienna",
-        "image1":"https://images.unsplash.com/photo-1516550893923-42d28e5677af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
-        "image": "https://images.unsplash.com/photo-1598871955824-3db4b5f9494d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
-        "description": "Austria, located in the heart of Europe, is famous for its stunning Alpine landscapes, historic cities, and rich cultural heritage. Vienna, the capital city, is known for its classical music, imperial palaces, and vibrant coffeehouse culture. The country offers a blend of natural beauty and architectural splendor, making it a must-visit destination for travelers.Additionally, Austria's charming towns like Salzburg, birthplace of Mozart, and Innsbruck, nestled in the Alps, invite exploration, while the country's passion for winter sports in places like the Tyrolean mountains adds an adventurous dimension to its cultural and natural allure."
-      
-      
+      "id": 7,
+      "name": "Austria",
+      "capital": "Vienna",
+      "image1": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
+      "image": "https://images.unsplash.com/photo-1598871955824-3db4b5f9494d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "description": "Austria, located in the heart of Europe, is famous for its stunning Alpine landscapes, historic cities, and rich cultural heritage. Vienna, the capital city, is known for its classical music, imperial palaces, and vibrant coffeehouse culture. The country offers a blend of natural beauty and architectural splendor, making it a must-visit destination for travelers.Additionally, Austria's charming towns like Salzburg, birthplace of Mozart, and Innsbruck, nestled in the Alps, invite exploration, while the country's passion for winter sports in places like the Tyrolean mountains adds an adventurous dimension to its cultural and natural allure."
     },
     {
       "id": 8,
       "name": "Ireland",
       "capital": "Dublin",
-      "image1":"https://images.unsplash.com/photo-1549918864-48ac978761a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://images.unsplash.com/photo-1549918864-48ac978761a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "image": "https://images.unsplash.com/photo-1557843961-b589ce207737?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
       "description": "Ireland, known for its lush landscapes and friendly people, has Dublin as its capital. Explore the city's historic sites, such as Trinity College and the Guinness Storehouse.Furthermore, Ireland's rich literary heritage, celebrated through the works of James Joyce and W.B. Yeats, adds a layer of cultural depth to the country, and its traditional music and warm, welcoming pubs invite travelers to experience the heart and soul of Irish culture. Ireland's enchanting mix of scenic beauty and cultural treasures ensures a memorable journey for all who visit."
     },
@@ -72,7 +68,7 @@
       "id": 9,
       "name": "Finland",
       "capital": "Helsinki",
-      "image":"https://images.unsplash.com/photo-1566111947159-0fcbf19648bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image": "https://images.unsplash.com/photo-1566111947159-0fcbf19648bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "image1": "https://images.unsplash.com/photo-1538332576228-eb5b4c4de6f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "description": "Helsinki, the capital of Finland, is known for its modern architecture, vibrant cultural scene, and beautiful waterfront. The city is home to iconic landmarks like the Helsinki Cathedral and the Suomenlinna Sea Fortress. With its rich history and thriving design culture, Helsinki offers a unique blend of tradition and innovation.Additionally, Helsinki's commitment to sustainability and green spaces, exemplified by its numerous parks and efficient public transportation, makes it a model of urban living in harmony with nature. The city's Nordic charm and forward-thinking approach make it a compelling destination for travelers seeking both cultural richness and environmental consciousness."
     },
@@ -80,15 +76,15 @@
       "id": 10,
       "name": "Scotland",
       "capital": "Edinburgh",
-      "image1":"https://images.unsplash.com/photo-1569668444050-b7bc2bfec0c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "image1": "https://images.unsplash.com/photo-1569668444050-b7bc2bfec0c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
       "image": "https://images.unsplash.com/photo-1605558162119-2de4d9ff8130?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
       "description": "Scotland, part of the United Kingdom, features Edinburgh as its capital. The city is known for its historic and architectural marvels, including the Edinburgh Castle.Moreover, Scotland's rugged landscapes, such as the Scottish Highlands and the Isle of Skye, provide a breathtaking backdrop for outdoor adventures, while its rich cultural heritage, celebrated through Highland games and traditional festivals, invites visitors to immerse themselves in the country's vibrant traditions and natural beauty."
     },
-       {
+    {
       "id": 11,
       "name": "Switzerland",
       "capital": "Bern",
-      "image1":"https://images.unsplash.com/photo-1583495833696-852f6573e8ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "image1": "https://images.unsplash.com/photo-1583495833696-852f6573e8ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
       "description": "Switzerland is renowned for its stunning alpine landscapes, pristine lakes, and charming cities.Additionally, Switzerland's commitment to precision and quality is reflected in its world-famous Swiss watches and delectable Swiss chocolates, adding a touch of luxury to its already enticing blend of natural wonders and urban sophistication.",
       "image": "https://images.unsplash.com/photo-1504218727796-db522606b16f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
     },
@@ -96,7 +92,7 @@
       "id": 12,
       "name": "Hungary",
       "capital": "Budapest",
-      "image1":"https://images.unsplash.com/photo-1603978111726-42dd6fedbf67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://images.unsplash.com/photo-1603978111726-42dd6fedbf67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "description": "Hungary offers a rich tapestry of history, thermal baths, and beautiful architecture.Furthermore, the vibrant cultural scene in Budapest, Hungary's capital, showcases its love for music, art, and culinary delights, making it a delightful destination for those seeking a harmonious blend of tradition and contemporary living.",
       "image": "https://images.unsplash.com/photo-1518471152222-d42e38ce6873?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
     },
@@ -104,7 +100,7 @@
       "id": 13,
       "name": "Denmark",
       "capital": "Copenhagen",
-      "image1":"https://plus.unsplash.com/premium_photo-1691414363231-836e2e1bf0ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://plus.unsplash.com/premium_photo-1691414363231-836e2e1bf0ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "description": "Denmark is known for its picturesque canals, historic castles, and Scandinavian design.Moreover, Denmark's emphasis on sustainability and bicycle-friendly cities reflects its commitment to green living, creating a harmonious balance between preserving its cultural heritage and embracing modern, eco-conscious urban living.",
       "image": "https://images.unsplash.com/photo-1575843456098-25dc4244e9f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80"
     },
@@ -112,7 +108,7 @@
       "id": 14,
       "name": "Croatia",
       "capital": "Zagreb",
-      "image1":"https://plus.unsplash.com/premium_photo-1661963915825-9dee778ad548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://plus.unsplash.com/premium_photo-1661963915825-9dee778ad548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "description": "Croatia's Adriatic coast offers stunning beaches, medieval towns, and crystal-clear waters.Furthermore, Croatia's rich cultural heritage, with influences from Roman, Venetian, and Ottoman eras, is evident in its diverse architecture, making it a fascinating destination for history enthusiasts and beach lovers alike.",
       "image": "https://images.unsplash.com/photo-1598259218735-3d05c504e64f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
     },
@@ -120,7 +116,7 @@
       "id": 15,
       "name": "Turkey",
       "capital": "Istanbul",
-      "image1":"https://plus.unsplash.com/premium_photo-1661962322472-e0be5fa94a36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "image1": "https://plus.unsplash.com/premium_photo-1661962322472-e0be5fa94a36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "description": "A city bridging Europe and Asia, known for its historic sites like the Hagia Sophia and Blue Mosque.Furthermore, Istanbul's bustling bazaars, such as the Grand Bazaar and Spice Bazaar, offer an immersive sensory experience, where centuries-old traditions and vibrant market life converge in a vibrant tapestry of flavors and treasures.",
       "image": "https://images.unsplash.com/photo-1623621534850-d325a1980c7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1771&q=80"
     },
@@ -173,29 +169,29 @@
       "description": "Slovenia, located in central Europe, is known for its stunning natural beauty, including the picturesque Lake Bled, the Julian Alps, and pristine forests. The capital city, Ljubljana, boasts a charming old town with a medieval castle overlooking the city. Slovenia is famous for its outdoor activities, such as hiking, skiing, and cycling. Its rich cultural heritage, delicious cuisine, and warm hospitality make it a delightful destination for travelers."
     },
     {
-      "id":22,
-      "name":"Germany",
-      "capital":"Berlin",
-      "image1":"https://images.unsplash.com/photo-1467269204594-9661b134dd2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
-      "image":"https://images.unsplash.com/photo-1554072675-66db59dba46f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1773&q=80",
-      "description":"Germany, located in the heart of Europe, is a country renowned for its blend of rich history, innovative culture, and scenic landscapes. Its vibrant cities, like Berlin with its modern architecture and Munich with its traditional beer gardens, showcase the country's diversity. Germany is steeped in history, from the remnants of the Berlin Wall to the medieval charm of towns like Rothenburg. The country's efficient public transportation system, love for the arts, and culinary delights like sausages and pretzels make it a captivating destination for travelers of all interests."
+      "id": 22,
+      "name": "Germany",
+      "capital": "Berlin",
+      "image1": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "image": "https://images.unsplash.com/photo-1554072675-66db59dba46f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1773&q=80",
+      "description": "Germany, located in the heart of Europe, is a country renowned for its blend of rich history, innovative culture, and scenic landscapes. Its vibrant cities, like Berlin with its modern architecture and Munich with its traditional beer gardens, showcase the country's diversity. Germany is steeped in history, from the remnants of the Berlin Wall to the medieval charm of towns like Rothenburg. The country's efficient public transportation system, love for the arts, and culinary delights like sausages and pretzels make it a captivating destination for travelers of all interests."
     },
     {
-      "id":23,
-      "name":"Isle of Man",
-      "capital":"Douglas",
-      "image1":"https://images.unsplash.com/photo-1589329517220-7c9aaec0ebeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1773&q=80",
-      "image":"https://images.unsplash.com/photo-1578417827807-c002306916ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
-      "description":"The Isle of Man, situated in the Irish Sea, is a charming self-governing British Crown dependency. Known for its rugged coastlines, rolling green hills, and picturesque fishing villages, it offers a serene escape into nature. The island is famous for the annual Isle of Man TT motorcycle race, showcasing its deep-rooted passion for motorsport. With a rich Celtic history and unique cultural traditions, the Isle of Man is a captivating destination for those seeking tranquility and a touch of adventure."
+      "id": 23,
+      "name": "Isle of Man",
+      "capital": "Douglas",
+      "image1": "https://images.unsplash.com/photo-1589329517220-7c9aaec0ebeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1773&q=80",
+      "image": "https://images.unsplash.com/photo-1578417827807-c002306916ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "description": "The Isle of Man, situated in the Irish Sea, is a charming self-governing British Crown dependency. Known for its rugged coastlines, rolling green hills, and picturesque fishing villages, it offers a serene escape into nature. The island is famous for the annual Isle of Man TT motorcycle race, showcasing its deep-rooted passion for motorsport. With a rich Celtic history and unique cultural traditions, the Isle of Man is a captivating destination for those seeking tranquility and a touch of adventure."
     },
     {
-      "id":24,
-      "name":"Moldova",
-      "image1":"https://images.unsplash.com/photo-1628682075473-063c0845015a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
-      "image":"https://images.unsplash.com/photo-1628456006794-c112e5a06d27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1866&q=80",
-      "description":"Moldova, located in Eastern Europe, is a country known for its serene countryside, including lush vineyards and scenic landscapes. The capital, Chisinau, boasts Soviet-era architecture and vibrant markets. Moldova is renowned for its winemaking traditions, producing some of Europe's finest wines. Despite its small size, the country offers a unique blend of history, culture, and natural beauty for travelers to explore."
+      "id": 24,
+      "name": "Moldova",
+      "image1": "https://images.unsplash.com/photo-1628682075473-063c0845015a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "image": "https://images.unsplash.com/photo-1628456006794-c112e5a06d27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1866&q=80",
+      "description": "Moldova, located in Eastern Europe, is a country known for its serene countryside, including lush vineyards and scenic landscapes. The capital, Chisinau, boasts Soviet-era architecture and vibrant markets. Moldova is renowned for its winemaking traditions, producing some of Europe's finest wines. Despite its small size, the country offers a unique blend of history, culture, and natural beauty for travelers to explore."
     }
-   ],
+  ],
   "tourist": [
     {
       "id": 11,
@@ -386,7 +382,6 @@
       "placeImage": "https://images.unsplash.com/photo-1623307201420-0e57ade261e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
       "description": "Temppeliaukio Church, commonly known as the Rock Church, is an architectural gem located in Helsinki, Finland. Built directly into solid rock, the church's unique design features a copper dome and exposed rock walls, creating a harmonious blend of nature and human craftsmanship. It is a popular venue for concerts due to its exceptional acoustics. The Rock Church is a serene place for contemplation and worship, offering a tranquil atmosphere in the heart of the city. It stands as a symbol of modern Finnish architecture and has become an important cultural and religious site in Helsinki."
     },
-    
     {
       "id": 101,
       "countryId": 10,
@@ -408,7 +403,7 @@
       "placeImage": "https://images.unsplash.com/photo-1676825707541-4ad86c62ea58?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
       "description": "Arthur's Seat is an ancient volcano and a prominent natural landmark in the city of Edinburgh, Scotland. It's part of Holyrood Park and stands as the main peak, offering panoramic views of the city and surrounding areas. Arthur's Seat is a popular destination for hiking and outdoor enthusiasts, providing various trails for all levels of hikers. It's also a site of archaeological significance, with remnants of ancient settlements. The name Arthur's Seat is steeped in legend and folklore, adding to the area's mystique. It's a beloved natural escape for both locals and tourists, offering a sense of wilderness within the city."
     },
-       {
+    {
       "id": 111,
       "countryId": 11,
       "placeName": "Swiss Alps",
@@ -547,7 +542,7 @@
       "placeName": "Krka National Park",
       "placeImage": "https://images.unsplash.com/photo-1654690678512-3c950938b033?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1772&q=80",
       "description": "Krka National Park is a stunning national park located in Croatia, known for its pristine natural beauty and a series of breathtaking waterfalls. It is named after the Krka River, which flows through the park and forms numerous cascades and lakes.Visitors to Krka National Park can explore a network of well-maintained wooden walkways and hiking trails that provide access to the park's remarkable waterfalls. The most famous of these is Skradinski Buk, a wide and picturesque waterfall surrounded by lush vegetation. The park also features historical and cultural sites, including the Visovac Monastery, situated on an island in the Krka River."
-    }, 
+    },
     {
       "id": 151,
       "countryId": 15,
@@ -570,194 +565,208 @@
       "description": "Pamukkale, located in southwestern Turkey, is a natural wonder known for its stunning terraces of white mineral-rich travertine terraces and its warm, crystal-clear thermal waters. The name Pamukkale means cotton castle in Turkish, which aptly describes the terraces' appearance.These terraces are formed as the calcium-rich hot spring waters flow down the mountainside and deposit the calcium carbonate as it cools. This process has been ongoing for thousands of years and has created a surreal and ethereal landscape that attracts visitors from around the world."
     },
     {
-          "id": 161,
-          "countryId": 16,
-          "placeName": "The Hermitage Museum, St. Petersburg",
-          "placeImage": "https://images.unsplash.com/photo-1620119588113-83409b370495?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGhlJTIwSGVybWl0YWdlJTIwTXVzZXVtJTJDJTIwU3QuJTIwUGV0ZXJzYnVyZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-          "description": "The Hermitage Museum, situated in St. Petersburg, Russia, is one of the world's most renowned and extensive art and cultural museums. It was founded in 1764 by Catherine the Great and is housed in a series of stunning historic buildings along the Palace Embankment, including the Winter Palace."
-        },
-        {
-          "id": 162,
-          "countryId": 16,
-          "placeName": "Peterhof Palace, St. Petersburg",
-          "placeImage": "https://images.unsplash.com/photo-1686639197400-180460e23dfa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1888&q=80",
-          "description": "Peterhof Palace, also known as Petrodvorets, is a grand imperial palace and estate located in Petergof, near St. Petersburg, Russia. It is renowned for its opulent architecture, magnificent gardens, and impressive fountains. The palace complex was founded by Peter the Great in the early 18th century and has since been expanded and embellished by various Russian monarchs."
-        },
-        {
-          "id": 163,
-          "countryId": 16,
-          "placeName": "Catherine Palace, Pushkin",
-          "placeImage": "https://images.unsplash.com/photo-1552475112-72b6f4bc2f8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1886&q=80",
-          "description": "The Catherine Palace, also known as the Ekaterininskiy Dvorets, is a magnificent and historic palace located in the town of Pushkin (formerly Tsarskoye Selo), just outside of St. Petersburg, Russia. It is a prime example of Baroque and Neoclassical architectural styles and is celebrated for its opulent interiors and remarkable gardens."
-        },
-        {
-          "id": 171,
-        
-          "countryId": 17,
-          "placeName": "Wawel Castle, Krakow",
-          "placeImage": "https://images.unsplash.com/photo-1586178524385-af8c3fb367c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
-          "description": "  Wawel Castle, located in the heart of Krakow, Poland, is a historic royal residence and fortress with a rich and storied past. The castle's origins date back to the 13th century, and it served as a residence for Polish kings and queens for centuries. Today, it stands as a remarkable architectural and cultural landmark."
-        },
-        {
-          "id": 172,
-          "countryId": 17,
-          "placeName": "Auschwitz-Birkenau Memorial and Museum",
-          "placeImage": "https://images.unsplash.com/photo-1669475394197-2862a195f3e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          "description": "The Auschwitz-Birkenau Memorial and Museum is a solemn and important historical site located in Oswiecim, Poland. It stands on the grounds of the Auschwitz concentration and extermination camps, which were used by the Nazis during World War II for the mass murder of millions of innocent people, primarily Jews, as well as others targeted by the regime."
-        },
-        {
-          "id": 173,
-          "countryId": 17,
-          "placeName": "Krakow Old Town",
-          "placeImage": "https://images.unsplash.com/photo-1579653099868-e2a134432861?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
-          "description": "Krakow Old Town, or Stare Miasto in Polish, is the historic and cultural heart of Krakow, Poland. It is renowned for its well-preserved medieval architecture, charming squares, and vibrant atmosphere. The Old Town is a UNESCO World Heritage site and is one of the most popular tourist destinations in Poland.Stroll through the well-preserved medieval Old Town of Krakow, a UNESCO World Heritage site."
-        },
-        {
-          "id": 181,
-          "countryId": 18,
-          "placeName": "Vasa Museum, Stockholm",
-          "placeImage": "https://images.unsplash.com/photo-1675068176915-33a31edfc51b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
-          "description": "The Vasa Museum, located in Stockholm, Sweden, is a unique maritime museum that houses the Vasa warship, one of the most well-preserved and historically significant warships in the world. The Vasa was built in the 17th century and famously sank on its maiden voyage in 1628. It remained submerged in Stockholm's harbor for over 300 years before being salvaged in the 20th century."
-        },
-        {
-          "id": 182,
-          "countryId": 18,
-          "placeName": "Gamla Stan (Old Town), Stockholm",
-          "placeImage": "https://images.unsplash.com/photo-1543139465-aa8dc66dc427?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
-          "description": "Gamla Stan, Stockholm's Old Town, is a charming and historic district located in the heart of the Swedish capital. It is one of Europe's best-preserved medieval city centers and is known for its picturesque cobblestone streets, colorful buildings, and well-preserved architectural heritage.Visitors to Gamla Stan can explore its narrow alleyways, visit landmarks like the Royal Palace, Stortorget (the main square), and the Stockholm Cathedral, and discover quaint shops, cafes, and restaurants. The district is a vibrant hub of culture, history, and tradition, and it offers a glimpse into Sweden's past."
-        },
-        {
-          "id": 183,
-          "countryId": 18,
-          "placeName": "Skansen Open-Air Museum, Stockholm",
-          "placeImage": "https://images.unsplash.com/photo-1517824488624-8d6e5cdbf991?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
-          "description": "Skansen Open-Air Museum is a captivating cultural and historical attraction located on Djurgården Island in Stockholm, Sweden. Established in 1891, Skansen is the world's oldest open-air museum and showcases the rich cultural heritage and traditions of Sweden.The museum features a wide array of historical buildings and structures that have been relocated from various parts of the country, creating a charming and authentic representation of Swedish life throughout the centuries."
-        },
-        {
-          "id": 191,
-          "countryId": 19,
-          "placeName": "Belem Tower, Lisbon",
-          "placeImage": "https://images.unsplash.com/photo-1649020688467-760d50f99552?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1914&q=80",
-          "description": "Belém Tower, or Torre de Belém in Portuguese, is a historic fortress and UNESCO World Heritage site situated on the northern bank of the Tagus River in Lisbon, Portugal. It is one of the city's most iconic landmarks and a symbol of the Age of Discoveries during the 15th and 16th centuries.The tower was built in the early 16th century as part of Lisbon's defenses and to control access to the city's harbor. Its architecture is a beautiful blend of Manueline and Moorish styles. The tower is adorned with intricate stonework, including nautical and maritime motifs."
-        },
-        {
-          "id": 192,
-          "countryId": 19,
-          "placeName": "Douro Valley",
-          "placeImage": "https://images.unsplash.com/photo-1604850849447-6435708cb130?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
-          "description": "The Douro Valley, or the Douro Wine Region, is a picturesque and renowned wine-producing region in Portugal. It is one of the world's oldest wine regions, known for its terraced vineyards, stunning landscapes, and high-quality wine production.The Douro Valley is most famous for producing Port wine, a fortified wine with a long and distinguished history. The terraced vineyards that line the hills along the Douro River create a unique and beautiful sight, especially when the grapevines change color in different seasons."
-        },
-        {
-          "id": 193,
-          "countryId": 19,
-          "placeName": "Sintra",
-          "placeImage": "https://images.unsplash.com/photo-1562195168-c82fea0f0953?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
-          "description": "Sintra, located near Lisbon, Portugal, is a captivating town celebrated for its romantic and enchanting ambiance. The town is graced with lush forests, striking palaces, and beautiful gardens. Notable attractions in Sintra include the whimsical Pena Palace, the mystical Quinta da Regaleira, and the ancient Moorish Castle. The town's historical center is charming, with cobbled streets, shops, and cafes. Sintra's unique charm and cultural significance have earned it UNESCO World Heritage status, making it a must-visit destination for travelers exploring Portugal."
-        },
-        {
-          "id": 201,
-          "countryId": 20,
-          "placeName": "Blue Lagoon, Grindavik",
-          "placeImage": "https://images.unsplash.com/photo-1542472253-d83a7be5f534?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1889&q=80",
-          "description": "The Blue Lagoon is a famous geothermal spa located in Grindavik, on the Reykjanes Peninsula in Iceland. It is renowned for its milky-blue, mineral-rich waters, which are heated by underground volcanic activity. The lagoon is known for its soothing and therapeutic properties, making it a popular destination for relaxation and wellness.Visitors to the Blue Lagoon can soak in the warm, mineral-infused waters while enjoying the striking volcanic landscapes that surround the area. The spa also offers various amenities, including mud masks, saunas, and a swim-up bar, providing a unique and luxurious experience."
-        },
-        {
-          "id": 202,
-          "countryId": 20,
-          "placeName": "Golden Circle",
-          "placeImage": "https://images.unsplash.com/photo-1603226851957-1768f812309b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          "description": "The Golden Circle in Iceland is a captivating 300-kilometer route that takes visitors on a journey through some of the country's most iconic natural wonders. It includes stops at Þingvellir National Park, where you can walk between tectonic plates, Geysir Geothermal Area, known for its erupting geysers, and the majestic Gullfoss Waterfall. Additionally, the route often includes other attractions like the volcanic crater lake at Kerið and the charming town of Hveragerði. The Golden Circle offers a condensed but awe-inspiring experience of Iceland's geological wonders and natural beauty."
-        },
-        {
-          "id": 203,
-          "countryId": 20,
-          "placeName": "Reykjavik Old Harbor",
-          "placeImage": "https://images.unsplash.com/photo-1547081835-6ad9428582f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UmV5a2phdmlrJTIwT2xkJTIwSGFyYm9yfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-          "description": "Reykjavik Old Harbor, situated on the picturesque waterfront of Iceland's capital, is a vibrant and historic district. Visitors can embark on whale-watching adventures from its harbor, explore the Reykjavik Maritime Museum to learn about Iceland's seafaring heritage, and enjoy fresh seafood at charming restaurants and cafes. The area also hosts art galleries and cultural events, offering insights into Iceland's artistic scene. With scenic views of Mount Esja and the coastline, Reykjavik Old Harbor is a delightful place to immerse yourself in the culture and natural beauty of Iceland."
-        },
-        {
-          "id": 211,
-          "countryId": 21,
-          "placeName": "Lake Bled",
-          "placeImage": "https://images.unsplash.com/photo-1589345523238-383513aeaaa7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          "description": "Lake Bled, nestled in the Julian Alps of Slovenia, is a postcard-perfect destination. Its crystal-clear waters, enchanting island with the Assumption of Mary Pilgrimage Church, and a clifftop castle offer picturesque views. Visitors can explore the area by rowing, swimming, or hiking, and should savor a slice of the delectable Bled Cream Cake. Lake Bled is a serene and captivating alpine gem, making it an idyllic getaway for nature lovers and photographers."
-        },
-        {
-          "id": 212,
-          "countryId": 21,
-          "placeName": "Ljubljana Castle, Ljubljana",
-          "placeImage": "https://images.unsplash.com/photo-1600541983502-515aaed479a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2038&q=80",
-          "description": "Ljubljana Castle, located in the heart of Slovenia's capital city, Ljubljana, is a historic fortress that presides over the city from a hilltop. It is a symbol of the city's rich history and offers panoramic views of Ljubljana and the surrounding region. Key highlights include the medieval architecture, interactive exhibitions, and a tower with remarkable vistas. Visitors can explore the castle's history, enjoy cultural events, and take in the scenic beauty of the city from this iconic landmark. Ljubljana Castle is a must-visit destination for those interested in history and the enchanting allure of Ljubljana."
-        },
-        {
-          "id": 213,
-          "countryId": 21,
-          "placeName": "Triglav National Park",
-          "placeImage": "https://images.unsplash.com/photo-1611919965499-2c2c6567d38c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          "description": "Triglav National Park, located in the Julian Alps of Slovenia, is the country's only national park and a pristine natural wonder. Its centerpiece is Mount Triglav, Slovenia's highest peak, which stands at 2,863 meters (9,395 feet). The park is a paradise for outdoor enthusiasts, offering opportunities for hiking, mountaineering, and water activities in the crystal-clear rivers and lakes. The park's biodiversity, alpine landscapes, and charming villages make it a haven for nature lovers and those seeking outdoor adventure. With its unspoiled beauty, Triglav National Park showcases Slovenia's remarkable natural heritage."
-        },
-        {
-          "id":221,
-          "countryId":22,
-          "placeName":"Neuschwanstein Castle",
-          "placeImage":"https://images.unsplash.com/photo-1580677616212-2fa929e9c2cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
-          "description":"Neuschwanstein Castle, situated in Bavaria, Germany, is one of the world's most famous and iconic castles. It was built in the late 19th century by King Ludwig II of Bavaria and is known for its fairytale-like appearance, with picturesque turrets, spires, and a stunning alpine backdrop.The castle's design was inspired by romantic medievalism and the operas of Richard Wagner. Neuschwanstein's interiors are just as impressive as its exterior, with ornate rooms adorned with beautiful frescoes and opulent decor. It is often considered a masterpiece of historicist architecture."
-        },
-        {
-          "id":222,
-          "countryId":22,
-          "placeName":"Brandenburg Gate",
-          "placeImage":"https://images.unsplash.com/photo-1587330979470-3595ac045ab0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          "description":"Situated in Berlin, the Brandenburg Gate is a symbol of German unity and an iconic monument. It has witnessed pivotal moments in history and stands as a powerful reminder of the nation's past.The Brandenburg Gate, situated in Berlin, Germany, is an iconic neoclassical monument that stands as a symbol of unity and peace. Built in the late 18th century, it once marked the entrance to the city and has witnessed significant historical events. Its grand design features Doric columns and a chariot-topped quadriga, making it a popular tourist attraction and a testament to Berlin's history and resilience."
-        },
-        {
-          "id":223,
-          "countryId":22,
-          "placeName":"Cologne Cathedral",
-          "placeImage":"https://images.unsplash.com/photo-1558882641-1ec5a4941143?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1955&q=80",
-          "description":"Cologne Cathedral, or Kölner Dom in German, is a breathtaking Gothic masterpiece located in the heart of Cologne, Germany. It is one of Europe's most iconic cathedrals and a UNESCO World Heritage site. The cathedral's construction dates back to the 13th century, and it is celebrated for its intricate architecture, stunning stained glass windows, and remarkable sculptures. The cathedral's twin spires dominate the city's skyline, and its interior features a rich collection of religious art and artifacts. Visitors can ascend the cathedral's towers for panoramic views of Cologne, making it a must-visit destination for those interested in history and architectural splendor."
-        },
-        {
-          "id":231,
-          "countryId":23,
-          "placeName":"Peel",
-          "placeImage":"https://images.unsplash.com/photo-1578417827799-062058dc06bf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
-          "description":"Peel is a charming coastal town located on the west coast of the Isle of Man. It's famous for its picturesque seaside setting, sandy beaches, and historic landmarks. Some of the highlights in Peel include Peel Castle, a medieval fortress overlooking the sea, the House of Manannan museum, and the Manx Transportation Museum. The town is also renowned for its seafood, and you can enjoy fresh catches at local restaurants."
-        },
-        {
-          "id":232,
-          "countryId":23,
-          "placeName":"Laxey",
-          "placeImage":"https://images.unsplash.com/photo-1637166208750-130e4db3bb53?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
-          "description":" Laxey is a quaint village situated on the east coast of the island. It's known for the Laxey Wheel (Lady Isabella), which is the largest working waterwheel in the world. Visitors can take a guided tour and learn about the history of the waterwheel and its significance to the island's mining heritage. Laxey also offers scenic coastal views and opportunities for walks and hikes in the surrounding countryside."
-        },
-        {
-          "id":233,
-          "countryId":23,
-          "placeName":"The National Sports Centre,",
-          "placeImage":"https://images.unsplash.com/photo-1593013820725-ca0b6076576f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          "description":"The Isle of Man is world-famous for the Isle of Man TT (Tourist Trophy) motorcycle race, one of the most prestigious motorcycle races in the world. The TT course is a 37.73-mile road circuit that winds through picturesque villages and stunning landscapes. While you can't race on it yourself, you can explore the course, watch races during the annual TT event, or take guided tours to learn about the race's history and the daring riders who compete in it."
-        },{
-          "id":241,
-          "countryId":24,
-          "placeName":"Chisinau (Chișinău)",
-          "placeImage":"https://images.unsplash.com/photo-1685027697150-66636594e04f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80",
-          "description":"Chisinau is the capital and largest city of Moldova. It's the political, economic, and cultural center of the country. Some notable attractions in Chisinau include the Nativity Cathedral, Triumphal Arch, Stefan cel Mare Central Park, and the National Museum of History of Moldova. You can also explore the vibrant local markets and try traditional Moldovan cuisine in the city's numerous restaurants."
-        },
-        {
-          "id":242,
-          "countryId":24,
-          "placeName":"Orheiul Vechi (Old Orhei)",
-          "placeImage":"https://images.unsplash.com/photo-1579618218290-24a26f63a738?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1941&q=80",
-          "description":" Orheiul Vechi is an archaeological and historical complex located about 60 kilometers north of Chisinau. It's known for its scenic natural landscapes, ancient cave monasteries, and historic ruins. The complex offers a glimpse into Moldova's history and culture, and you can explore the caves, the Orheiul Vechi Monastery, and the beautiful views of the Raut River."
-        },
-        {
-          "id":243,
-          "countryId":24,
-          "placeName":"Cricova Winery",
-          "placeImage":"https://images.unsplash.com/photo-1560286219-d2423ff764e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
-          "description":"Moldova is famous for its wine, and Cricova Winery is one of the most renowned wine cellars in the country. It's situated in an underground cave system, where you can take guided tours to explore the extensive wine cellars and taste a variety of Moldovan wines. The underground tunnels also hold a unique collection of wines, including some from famous world leaders."
-        }
-
+      "id": 161,
+      "countryId": 16,
+      "placeName": "The Hermitage Museum, St. Petersburg",
+      "placeImage": "https://images.unsplash.com/photo-1620119588113-83409b370495?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGhlJTIwSGVybWl0YWdlJTIwTXVzZXVtJTJDJTIwU3QuJTIwUGV0ZXJzYnVyZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "The Hermitage Museum, situated in St. Petersburg, Russia, is one of the world's most renowned and extensive art and cultural museums. It was founded in 1764 by Catherine the Great and is housed in a series of stunning historic buildings along the Palace Embankment, including the Winter Palace."
+    },
+    {
+      "id": 162,
+      "countryId": 16,
+      "placeName": "Peterhof Palace, St. Petersburg",
+      "placeImage": "https://images.unsplash.com/photo-1686639197400-180460e23dfa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1888&q=80",
+      "description": "Peterhof Palace, also known as Petrodvorets, is a grand imperial palace and estate located in Petergof, near St. Petersburg, Russia. It is renowned for its opulent architecture, magnificent gardens, and impressive fountains. The palace complex was founded by Peter the Great in the early 18th century and has since been expanded and embellished by various Russian monarchs."
+    },
+    {
+      "id": 163,
+      "countryId": 16,
+      "placeName": "Catherine Palace, Pushkin",
+      "placeImage": "https://images.unsplash.com/photo-1552475112-72b6f4bc2f8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1886&q=80",
+      "description": "The Catherine Palace, also known as the Ekaterininskiy Dvorets, is a magnificent and historic palace located in the town of Pushkin (formerly Tsarskoye Selo), just outside of St. Petersburg, Russia. It is a prime example of Baroque and Neoclassical architectural styles and is celebrated for its opulent interiors and remarkable gardens."
+    },
+    {
+      "id": 171,
+      "countryId": 17,
+      "placeName": "Wawel Castle, Krakow",
+      "placeImage": "https://images.unsplash.com/photo-1586178524385-af8c3fb367c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "description": "  Wawel Castle, located in the heart of Krakow, Poland, is a historic royal residence and fortress with a rich and storied past. The castle's origins date back to the 13th century, and it served as a residence for Polish kings and queens for centuries. Today, it stands as a remarkable architectural and cultural landmark."
+    },
+    {
+      "id": 172,
+      "countryId": 17,
+      "placeName": "Auschwitz-Birkenau Memorial and Museum",
+      "placeImage": "https://images.unsplash.com/photo-1669475394197-2862a195f3e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "The Auschwitz-Birkenau Memorial and Museum is a solemn and important historical site located in Oswiecim, Poland. It stands on the grounds of the Auschwitz concentration and extermination camps, which were used by the Nazis during World War II for the mass murder of millions of innocent people, primarily Jews, as well as others targeted by the regime."
+    },
+    {
+      "id": 173,
+      "countryId": 17,
+      "placeName": "Krakow Old Town",
+      "placeImage": "https://images.unsplash.com/photo-1579653099868-e2a134432861?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "description": "Krakow Old Town, or Stare Miasto in Polish, is the historic and cultural heart of Krakow, Poland. It is renowned for its well-preserved medieval architecture, charming squares, and vibrant atmosphere. The Old Town is a UNESCO World Heritage site and is one of the most popular tourist destinations in Poland.Stroll through the well-preserved medieval Old Town of Krakow, a UNESCO World Heritage site."
+    },
+    {
+      "id": 181,
+      "countryId": 18,
+      "placeName": "Vasa Museum, Stockholm",
+      "placeImage": "https://images.unsplash.com/photo-1675068176915-33a31edfc51b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+      "description": "The Vasa Museum, located in Stockholm, Sweden, is a unique maritime museum that houses the Vasa warship, one of the most well-preserved and historically significant warships in the world. The Vasa was built in the 17th century and famously sank on its maiden voyage in 1628. It remained submerged in Stockholm's harbor for over 300 years before being salvaged in the 20th century."
+    },
+    {
+      "id": 182,
+      "countryId": 18,
+      "placeName": "Gamla Stan (Old Town), Stockholm",
+      "placeImage": "https://images.unsplash.com/photo-1543139465-aa8dc66dc427?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "description": "Gamla Stan, Stockholm's Old Town, is a charming and historic district located in the heart of the Swedish capital. It is one of Europe's best-preserved medieval city centers and is known for its picturesque cobblestone streets, colorful buildings, and well-preserved architectural heritage.Visitors to Gamla Stan can explore its narrow alleyways, visit landmarks like the Royal Palace, Stortorget (the main square), and the Stockholm Cathedral, and discover quaint shops, cafes, and restaurants. The district is a vibrant hub of culture, history, and tradition, and it offers a glimpse into Sweden's past."
+    },
+    {
+      "id": 183,
+      "countryId": 18,
+      "placeName": "Skansen Open-Air Museum, Stockholm",
+      "placeImage": "https://images.unsplash.com/photo-1517824488624-8d6e5cdbf991?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "description": "Skansen Open-Air Museum is a captivating cultural and historical attraction located on Djurgården Island in Stockholm, Sweden. Established in 1891, Skansen is the world's oldest open-air museum and showcases the rich cultural heritage and traditions of Sweden.The museum features a wide array of historical buildings and structures that have been relocated from various parts of the country, creating a charming and authentic representation of Swedish life throughout the centuries."
+    },
+    {
+      "id": 191,
+      "countryId": 19,
+      "placeName": "Belem Tower, Lisbon",
+      "placeImage": "https://images.unsplash.com/photo-1649020688467-760d50f99552?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1914&q=80",
+      "description": "Belém Tower, or Torre de Belém in Portuguese, is a historic fortress and UNESCO World Heritage site situated on the northern bank of the Tagus River in Lisbon, Portugal. It is one of the city's most iconic landmarks and a symbol of the Age of Discoveries during the 15th and 16th centuries.The tower was built in the early 16th century as part of Lisbon's defenses and to control access to the city's harbor. Its architecture is a beautiful blend of Manueline and Moorish styles. The tower is adorned with intricate stonework, including nautical and maritime motifs."
+    },
+    {
+      "id": 192,
+      "countryId": 19,
+      "placeName": "Douro Valley",
+      "placeImage": "https://images.unsplash.com/photo-1604850849447-6435708cb130?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "description": "The Douro Valley, or the Douro Wine Region, is a picturesque and renowned wine-producing region in Portugal. It is one of the world's oldest wine regions, known for its terraced vineyards, stunning landscapes, and high-quality wine production.The Douro Valley is most famous for producing Port wine, a fortified wine with a long and distinguished history. The terraced vineyards that line the hills along the Douro River create a unique and beautiful sight, especially when the grapevines change color in different seasons."
+    },
+    {
+      "id": 193,
+      "countryId": 19,
+      "placeName": "Sintra",
+      "placeImage": "https://images.unsplash.com/photo-1562195168-c82fea0f0953?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "description": "Sintra, located near Lisbon, Portugal, is a captivating town celebrated for its romantic and enchanting ambiance. The town is graced with lush forests, striking palaces, and beautiful gardens. Notable attractions in Sintra include the whimsical Pena Palace, the mystical Quinta da Regaleira, and the ancient Moorish Castle. The town's historical center is charming, with cobbled streets, shops, and cafes. Sintra's unique charm and cultural significance have earned it UNESCO World Heritage status, making it a must-visit destination for travelers exploring Portugal."
+    },
+    {
+      "id": 201,
+      "countryId": 20,
+      "placeName": "Blue Lagoon, Grindavik",
+      "placeImage": "https://images.unsplash.com/photo-1542472253-d83a7be5f534?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1889&q=80",
+      "description": "The Blue Lagoon is a famous geothermal spa located in Grindavik, on the Reykjanes Peninsula in Iceland. It is renowned for its milky-blue, mineral-rich waters, which are heated by underground volcanic activity. The lagoon is known for its soothing and therapeutic properties, making it a popular destination for relaxation and wellness.Visitors to the Blue Lagoon can soak in the warm, mineral-infused waters while enjoying the striking volcanic landscapes that surround the area. The spa also offers various amenities, including mud masks, saunas, and a swim-up bar, providing a unique and luxurious experience."
+    },
+    {
+      "id": 202,
+      "countryId": 20,
+      "placeName": "Golden Circle",
+      "placeImage": "https://images.unsplash.com/photo-1603226851957-1768f812309b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "The Golden Circle in Iceland is a captivating 300-kilometer route that takes visitors on a journey through some of the country's most iconic natural wonders. It includes stops at Þingvellir National Park, where you can walk between tectonic plates, Geysir Geothermal Area, known for its erupting geysers, and the majestic Gullfoss Waterfall. Additionally, the route often includes other attractions like the volcanic crater lake at Kerið and the charming town of Hveragerði. The Golden Circle offers a condensed but awe-inspiring experience of Iceland's geological wonders and natural beauty."
+    },
+    {
+      "id": 203,
+      "countryId": 20,
+      "placeName": "Reykjavik Old Harbor",
+      "placeImage": "https://images.unsplash.com/photo-1547081835-6ad9428582f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UmV5a2phdmlrJTIwT2xkJTIwSGFyYm9yfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "description": "Reykjavik Old Harbor, situated on the picturesque waterfront of Iceland's capital, is a vibrant and historic district. Visitors can embark on whale-watching adventures from its harbor, explore the Reykjavik Maritime Museum to learn about Iceland's seafaring heritage, and enjoy fresh seafood at charming restaurants and cafes. The area also hosts art galleries and cultural events, offering insights into Iceland's artistic scene. With scenic views of Mount Esja and the coastline, Reykjavik Old Harbor is a delightful place to immerse yourself in the culture and natural beauty of Iceland."
+    },
+    {
+      "id": 211,
+      "countryId": 21,
+      "placeName": "Lake Bled",
+      "placeImage": "https://images.unsplash.com/photo-1589345523238-383513aeaaa7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "Lake Bled, nestled in the Julian Alps of Slovenia, is a postcard-perfect destination. Its crystal-clear waters, enchanting island with the Assumption of Mary Pilgrimage Church, and a clifftop castle offer picturesque views. Visitors can explore the area by rowing, swimming, or hiking, and should savor a slice of the delectable Bled Cream Cake. Lake Bled is a serene and captivating alpine gem, making it an idyllic getaway for nature lovers and photographers."
+    },
+    {
+      "id": 212,
+      "countryId": 21,
+      "placeName": "Ljubljana Castle, Ljubljana",
+      "placeImage": "https://images.unsplash.com/photo-1600541983502-515aaed479a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2038&q=80",
+      "description": "Ljubljana Castle, located in the heart of Slovenia's capital city, Ljubljana, is a historic fortress that presides over the city from a hilltop. It is a symbol of the city's rich history and offers panoramic views of Ljubljana and the surrounding region. Key highlights include the medieval architecture, interactive exhibitions, and a tower with remarkable vistas. Visitors can explore the castle's history, enjoy cultural events, and take in the scenic beauty of the city from this iconic landmark. Ljubljana Castle is a must-visit destination for those interested in history and the enchanting allure of Ljubljana."
+    },
+    {
+      "id": 213,
+      "countryId": 21,
+      "placeName": "Triglav National Park",
+      "placeImage": "https://images.unsplash.com/photo-1611919965499-2c2c6567d38c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "Triglav National Park, located in the Julian Alps of Slovenia, is the country's only national park and a pristine natural wonder. Its centerpiece is Mount Triglav, Slovenia's highest peak, which stands at 2,863 meters (9,395 feet). The park is a paradise for outdoor enthusiasts, offering opportunities for hiking, mountaineering, and water activities in the crystal-clear rivers and lakes. The park's biodiversity, alpine landscapes, and charming villages make it a haven for nature lovers and those seeking outdoor adventure. With its unspoiled beauty, Triglav National Park showcases Slovenia's remarkable natural heritage."
+    },
+    {
+      "id": 221,
+      "countryId": 22,
+      "placeName": "Neuschwanstein Castle",
+      "placeImage": "https://images.unsplash.com/photo-1580677616212-2fa929e9c2cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+      "description": "Neuschwanstein Castle, situated in Bavaria, Germany, is one of the world's most famous and iconic castles. It was built in the late 19th century by King Ludwig II of Bavaria and is known for its fairytale-like appearance, with picturesque turrets, spires, and a stunning alpine backdrop.The castle's design was inspired by romantic medievalism and the operas of Richard Wagner. Neuschwanstein's interiors are just as impressive as its exterior, with ornate rooms adorned with beautiful frescoes and opulent decor. It is often considered a masterpiece of historicist architecture."
+    },
+    {
+      "id": 222,
+      "countryId": 22,
+      "placeName": "Brandenburg Gate",
+      "placeImage": "https://images.unsplash.com/photo-1587330979470-3595ac045ab0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "Situated in Berlin, the Brandenburg Gate is a symbol of German unity and an iconic monument. It has witnessed pivotal moments in history and stands as a powerful reminder of the nation's past.The Brandenburg Gate, situated in Berlin, Germany, is an iconic neoclassical monument that stands as a symbol of unity and peace. Built in the late 18th century, it once marked the entrance to the city and has witnessed significant historical events. Its grand design features Doric columns and a chariot-topped quadriga, making it a popular tourist attraction and a testament to Berlin's history and resilience."
+    },
+    {
+      "id": 223,
+      "countryId": 22,
+      "placeName": "Cologne Cathedral",
+      "placeImage": "https://images.unsplash.com/photo-1558882641-1ec5a4941143?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1955&q=80",
+      "description": "Cologne Cathedral, or Kölner Dom in German, is a breathtaking Gothic masterpiece located in the heart of Cologne, Germany. It is one of Europe's most iconic cathedrals and a UNESCO World Heritage site. The cathedral's construction dates back to the 13th century, and it is celebrated for its intricate architecture, stunning stained glass windows, and remarkable sculptures. The cathedral's twin spires dominate the city's skyline, and its interior features a rich collection of religious art and artifacts. Visitors can ascend the cathedral's towers for panoramic views of Cologne, making it a must-visit destination for those interested in history and architectural splendor."
+    },
+    {
+      "id": 231,
+      "countryId": 23,
+      "placeName": "Peel",
+      "placeImage": "https://images.unsplash.com/photo-1578417827799-062058dc06bf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "description": "Peel is a charming coastal town located on the west coast of the Isle of Man. It's famous for its picturesque seaside setting, sandy beaches, and historic landmarks. Some of the highlights in Peel include Peel Castle, a medieval fortress overlooking the sea, the House of Manannan museum, and the Manx Transportation Museum. The town is also renowned for its seafood, and you can enjoy fresh catches at local restaurants."
+    },
+    {
+      "id": 232,
+      "countryId": 23,
+      "placeName": "Laxey",
+      "placeImage": "https://images.unsplash.com/photo-1637166208750-130e4db3bb53?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "description": " Laxey is a quaint village situated on the east coast of the island. It's known for the Laxey Wheel (Lady Isabella), which is the largest working waterwheel in the world. Visitors can take a guided tour and learn about the history of the waterwheel and its significance to the island's mining heritage. Laxey also offers scenic coastal views and opportunities for walks and hikes in the surrounding countryside."
+    },
+    {
+      "id": 233,
+      "countryId": 23,
+      "placeName": "The National Sports Centre,",
+      "placeImage": "https://images.unsplash.com/photo-1593013820725-ca0b6076576f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "The Isle of Man is world-famous for the Isle of Man TT (Tourist Trophy) motorcycle race, one of the most prestigious motorcycle races in the world. The TT course is a 37.73-mile road circuit that winds through picturesque villages and stunning landscapes. While you can't race on it yourself, you can explore the course, watch races during the annual TT event, or take guided tours to learn about the race's history and the daring riders who compete in it."
+    },
+    {
+      "id": 241,
+      "countryId": 24,
+      "placeName": "Chisinau (Chișinău)",
+      "placeImage": "https://images.unsplash.com/photo-1685027697150-66636594e04f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80",
+      "description": "Chisinau is the capital and largest city of Moldova. It's the political, economic, and cultural center of the country. Some notable attractions in Chisinau include the Nativity Cathedral, Triumphal Arch, Stefan cel Mare Central Park, and the National Museum of History of Moldova. You can also explore the vibrant local markets and try traditional Moldovan cuisine in the city's numerous restaurants."
+    },
+    {
+      "id": 242,
+      "countryId": 24,
+      "placeName": "Orheiul Vechi (Old Orhei)",
+      "placeImage": "https://images.unsplash.com/photo-1579618218290-24a26f63a738?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1941&q=80",
+      "description": " Orheiul Vechi is an archaeological and historical complex located about 60 kilometers north of Chisinau. It's known for its scenic natural landscapes, ancient cave monasteries, and historic ruins. The complex offers a glimpse into Moldova's history and culture, and you can explore the caves, the Orheiul Vechi Monastery, and the beautiful views of the Raut River."
+    },
+    {
+      "id": 243,
+      "countryId": 24,
+      "placeName": "Cricova Winery",
+      "placeImage": "https://images.unsplash.com/photo-1560286219-d2423ff764e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+      "description": "Moldova is famous for its wine, and Cricova Winery is one of the most renowned wine cellars in the country. It's situated in an underground cave system, where you can take guided tours to explore the extensive wine cellars and taste a variety of Moldovan wines. The underground tunnels also hold a unique collection of wines, including some from famous world leaders."
+    }
+  ],
+  "userdetails": [
+    {
+      "id": 1,
+      "username": "sushma",
+      "password": "Sunday@123",
+      "email": "sushma@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "sanjana",
+      "password": "Sunday@123",
+      "email": "sanjana@gmail.com"
+    }
+    
   ]
 }
